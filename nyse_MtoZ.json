@@ -1,0 +1,3669 @@
+[{
+    "symbol": "M",
+    "name": "Macy's Inc Common Stock"
+  },
+  {
+    "symbol": "MA",
+    "name": "Mastercard Incorporated Common Stock"
+  },
+  {
+    "symbol": "MAA",
+    "name": "Mid-America Apartment Communities Inc. Common Stock"
+  },
+  {
+    "symbol": "MAA^I",
+    "name": "Mid-America Apartment Communities Inc. 8.50% Series I Cumulative Redeemable Preferred Stock"
+  },
+  {
+    "symbol": "MAC",
+    "name": "Macerich Company (The) Common Stock"
+  },
+  {
+    "symbol": "MAIN",
+    "name": "Main Street Capital Corporation Common Stock"
+  },
+  {
+    "symbol": "MAN",
+    "name": "ManpowerGroup Common Stock"
+  },
+  {
+    "symbol": "MAS",
+    "name": "Masco Corporation Common Stock"
+  },
+  {
+    "symbol": "MATX",
+    "name": "Matson Inc. Common Stock"
+  },
+  {
+    "symbol": "MAV",
+    "name": "Pioneer Municipal High Income Advantage Fund Inc."
+  },
+  {
+    "symbol": "MBI",
+    "name": "MBIA Inc. Common Stock"
+  },
+  {
+    "symbol": "MCD",
+    "name": "McDonald's Corporation Common Stock"
+  },
+  {
+    "symbol": "MCI",
+    "name": "Barings Corporate Investors Common Stock"
+  },
+  {
+    "symbol": "MCK",
+    "name": "McKesson Corporation Common Stock"
+  },
+  {
+    "symbol": "MCN",
+    "name": "Madison Covered Call & Equity Strategy Fund Common Stock"
+  },
+  {
+    "symbol": "MCO",
+    "name": "Moody's Corporation Common Stock"
+  },
+  {
+    "symbol": "MCR",
+    "name": "MFS Charter Income Trust Common Stock"
+  },
+  {
+    "symbol": "MCS",
+    "name": "Marcus Corporation (The) Common Stock"
+  },
+  {
+    "symbol": "MCY",
+    "name": "Mercury General Corporation Common Stock"
+  },
+  {
+    "symbol": "MD",
+    "name": "Mednax Inc. Common Stock"
+  },
+  {
+    "symbol": "MDC",
+    "name": "M.D.C. Holdings Inc. Common Stock"
+  },
+  {
+    "symbol": "MDT",
+    "name": "Medtronic plc. Ordinary Shares"
+  },
+  {
+    "symbol": "MDU",
+    "name": "MDU Resources Group Inc. Common Stock (Holding Company)"
+  },
+  {
+    "symbol": "MED",
+    "name": "MEDIFAST INC Common Stock"
+  },
+  {
+    "symbol": "MEG",
+    "name": "Montrose Environmental Group Inc. Common Stock"
+  },
+  {
+    "symbol": "MEI",
+    "name": "Methode Electronics Inc. Common Stock"
+  },
+  {
+    "symbol": "MER^K",
+    "name": "Bank of America Corporation Income Capital Obligation Notes initially due December 15 2066"
+  },
+  {
+    "symbol": "MET",
+    "name": "MetLife Inc. Common Stock"
+  },
+  {
+    "symbol": "MET^A",
+    "name": "MetLife Inc. Preferred Series A Floating Rate"
+  },
+  {
+    "symbol": "MET^E",
+    "name": "MetLife Inc. Depositary shares each representing a 1/1000th interest in a share of the Issuera??s 5.625% Non-Cumulative Preferred Stock Series E."
+  },
+  {
+    "symbol": "MET^F",
+    "name": "MetLife Inc. Depositary Shares each representing a 1/1000th interest in a share of 4.75% Non-Cumulative Preferred Stock Series F"
+  },
+  {
+    "symbol": "MFA",
+    "name": "MFA Financial Inc."
+  },
+  {
+    "symbol": "MFA^B",
+    "name": "MFA Financial Inc. Preferred Series B"
+  },
+  {
+    "symbol": "MFA^C",
+    "name": "MFA Financial Inc. 6.50% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock"
+  },
+  {
+    "symbol": "MFD",
+    "name": "Macquarie First Trust Global Common Stock"
+  },
+  {
+    "symbol": "MFM",
+    "name": "MFS Municipal Income Trust Common Stock"
+  },
+  {
+    "symbol": "MFV",
+    "name": "MFS Special Value Trust Common Stock"
+  },
+  {
+    "symbol": "MG",
+    "name": "Mistras Group Inc Common Stock"
+  },
+  {
+    "symbol": "MGF",
+    "name": "MFS Government Markets Income Trust Common Stock"
+  },
+  {
+    "symbol": "MGM",
+    "name": "MGM Resorts International Common Stock"
+  },
+  {
+    "symbol": "MGR",
+    "name": "Affiliated Managers Group Inc. 5.875% Junior Subordinated Notes due 2059"
+  },
+  {
+    "symbol": "MGRB",
+    "name": "Affiliated Managers Group Inc. 4.750% Junior Subordinated Notes due 2060"
+  },
+  {
+    "symbol": "MGRD",
+    "name": "Affiliated Managers Group Inc. 4.200% Junior Subordinated Notes due 2061"
+  },
+  {
+    "symbol": "MGU",
+    "name": "Macquarie Global Infrastructure Total Return Fund Inc. Common Stock"
+  },
+  {
+    "symbol": "MGY",
+    "name": "Magnolia Oil & Gas Corporation Class A Common Stock"
+  },
+  {
+    "symbol": "MHD",
+    "name": "Blackrock MuniHoldings Fund Inc. Common Stock"
+  },
+  {
+    "symbol": "MHF",
+    "name": "Western Asset Municipal High Income Fund Inc. Common Stock"
+  },
+  {
+    "symbol": "MHI",
+    "name": "Pioneer Municipal High Income Fund Inc."
+  },
+  {
+    "symbol": "MHK",
+    "name": "Mohawk Industries Inc. Common Stock"
+  },
+  {
+    "symbol": "MHN",
+    "name": "Blackrock MuniHoldings New York Quality Fund Inc. Common Stock"
+  },
+  {
+    "symbol": "MHO",
+    "name": "M/I Homes Inc. Common Stock"
+  },
+  {
+    "symbol": "MIC",
+    "name": "Macquarie Infrastructure Holdings LLC Common Unit"
+  },
+  {
+    "symbol": "MIN",
+    "name": "MFS Intermediate Income Trust Common Stock"
+  },
+  {
+    "symbol": "MIR",
+    "name": "Mirion Technologies Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "MITT",
+    "name": "AG Mortgage Investment Trust Inc. Common Stock"
+  },
+  {
+    "symbol": "MITT^A",
+    "name": "AG Mortgage Investment Trust Inc. 8.25% Preferred Series A"
+  },
+  {
+    "symbol": "MITT^B",
+    "name": "AG Mortgage Investment Trust Inc. Preferred Series B"
+  },
+  {
+    "symbol": "MITT^C",
+    "name": "AG Mortgage Investment Trust Inc. 8.00% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock $0.01 par value per share"
+  },
+  {
+    "symbol": "MIY",
+    "name": "Blackrock MuniYield Michigan Quality Fund Inc. Common Stock"
+  },
+  {
+    "symbol": "MKC",
+    "name": "McCormick & Company Incorporated Common Stock"
+  },
+  {
+    "symbol": "MKFG",
+    "name": "Markforged Holding Corporation Common Stock"
+  },
+  {
+    "symbol": "MKL",
+    "name": "Markel Corporation Common Stock"
+  },
+  {
+    "symbol": "ML",
+    "name": "MoneyLion Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "MLI",
+    "name": "Mueller Industries Inc. Common Stock"
+  },
+  {
+    "symbol": "MLM",
+    "name": "Martin Marietta Materials Inc. Common Stock"
+  },
+  {
+    "symbol": "MLP",
+    "name": "Maui Land & Pineapple Company Inc. Common Stock"
+  },
+  {
+    "symbol": "MLR",
+    "name": "Miller Industries Inc. Common Stock"
+  },
+  {
+    "symbol": "MMC",
+    "name": "Marsh & McLennan Companies Inc. Common Stock"
+  },
+  {
+    "symbol": "MMD",
+    "name": "MainStay MacKay DefinedTerm Municipal Opportunities Fund"
+  },
+  {
+    "symbol": "MMM",
+    "name": "3M Company Common Stock"
+  },
+  {
+    "symbol": "MMP",
+    "name": "Magellan Midstream Partners L.P. Limited Partnership"
+  },
+  {
+    "symbol": "MMS",
+    "name": "Maximus Inc. Common Stock"
+  },
+  {
+    "symbol": "MMT",
+    "name": "MFS Multimarket Income Trust Common Stock"
+  },
+  {
+    "symbol": "MMU",
+    "name": "Western Asset Managed Municipals Fund Inc. Common Stock"
+  },
+  {
+    "symbol": "MN",
+    "name": "Manning & Napier Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "MNP",
+    "name": "Western Asset Municipal Partners Fund Inc. Common Stock"
+  },
+  {
+    "symbol": "MO",
+    "name": "Altria Group Inc."
+  },
+  {
+    "symbol": "MOD",
+    "name": "Modine Manufacturing Company Common Stock"
+  },
+  {
+    "symbol": "MODN",
+    "name": "Model N Inc. Common Stock"
+  },
+  {
+    "symbol": "MOH",
+    "name": "Molina Healthcare Inc Common Stock"
+  },
+  {
+    "symbol": "MOS",
+    "name": "Mosaic Company (The) Common Stock"
+  },
+  {
+    "symbol": "MOV",
+    "name": "Movado Group Inc. Common Stock"
+  },
+  {
+    "symbol": "MPA",
+    "name": "Blackrock MuniYield Pennsylvania Quality Fund Common Stock"
+  },
+  {
+    "symbol": "MPC",
+    "name": "Marathon Petroleum Corporation Common Stock"
+  },
+  {
+    "symbol": "MPLX",
+    "name": "MPLX LP Common Units Representing Limited Partner Interests"
+  },
+  {
+    "symbol": "MPV",
+    "name": "Barings Participation Investors Common Stock"
+  },
+  {
+    "symbol": "MPW",
+    "name": "Medical Properties Trust Inc. common stock"
+  },
+  {
+    "symbol": "MPX",
+    "name": "Marine Products Corporation Common Stock"
+  },
+  {
+    "symbol": "MQT",
+    "name": "Blackrock MuniYield Quality Fund II Inc. Common Stock"
+  },
+  {
+    "symbol": "MQY",
+    "name": "Blackrock MuniYield Quality Fund Inc. Common Stock"
+  },
+  {
+    "symbol": "MRC",
+    "name": "MRC Global Inc. Common Stock"
+  },
+  {
+    "symbol": "MRK",
+    "name": "Merck & Company Inc. Common Stock (new)"
+  },
+  {
+    "symbol": "MRO",
+    "name": "Marathon Oil Corporation Common Stock"
+  },
+  {
+    "symbol": "MS",
+    "name": "Morgan Stanley Common Stock"
+  },
+  {
+    "symbol": "MS^A",
+    "name": "Morgan Stanley Dep Shs repstg 1/1000 Pfd Ser A"
+  },
+  {
+    "symbol": "MS^E",
+    "name": "Morgan Stanley DEPOSITARY SHARES REP 1/1000TH SHARES FIXED/FLTG PREFERRED STOCK SERIES E"
+  },
+  {
+    "symbol": "MS^F",
+    "name": "Morgan Stanley Dep Shs Rpstg 1/1000th Int Prd Ser F Fxd to Flag"
+  },
+  {
+    "symbol": "MS^I",
+    "name": "Morgan Stanley Depository Shares Representing 1/1000th Preferred Series 1 Fixed to Floating Non (Cum)"
+  },
+  {
+    "symbol": "MS^K",
+    "name": "Morgan Stanley Depositary Shares each representing 1/1000th of a share of Fixed-to-Floating Rate Non-Cumulative Preferred Stock  Series K"
+  },
+  {
+    "symbol": "MS^L",
+    "name": "Morgan Stanley Depositary Shares each representing 1/1000th of a share of 4.875% Non-Cumulative Preferred Stock Series L"
+  },
+  {
+    "symbol": "MS^O",
+    "name": "Morgan Stanley Depositary Shares each representing 1/1000th of a share of 4.250% Non-Cumulative Preferred Stock Series O"
+  },
+  {
+    "symbol": "MSA",
+    "name": "MSA Safety Incorporated Common Stock"
+  },
+  {
+    "symbol": "MSB",
+    "name": "Mesabi Trust Common Stock"
+  },
+  {
+    "symbol": "MSCI",
+    "name": "MSCI Inc Common Stock"
+  },
+  {
+    "symbol": "MSD",
+    "name": "Morgan Stanley Emerging Markets Debt Fund Inc. Common Stock"
+  },
+  {
+    "symbol": "MSGS",
+    "name": "Madison Square Garden Sports Corp. Class A Common Stock (New)"
+  },
+  {
+    "symbol": "MSI",
+    "name": "Motorola Solutions Inc. Common Stock"
+  },
+  {
+    "symbol": "MSM",
+    "name": "MSC Industrial Direct Company Inc. Common Stock"
+  },
+  {
+    "symbol": "MTB",
+    "name": "M&T Bank Corporation Common Stock"
+  },
+  {
+    "symbol": "MTB^H",
+    "name": "M&T Bank Corporation Perpetual Fixed-to-Floating Rate Non-Cumulative Preferred Stock Series H"
+  },
+  {
+    "symbol": "MTDR",
+    "name": "Matador Resources Company Common Stock"
+  },
+  {
+    "symbol": "MTG",
+    "name": "MGIC Investment Corporation Common Stock"
+  },
+  {
+    "symbol": "MTH",
+    "name": "Meritage Homes Corporation Common Stock"
+  },
+  {
+    "symbol": "MTN",
+    "name": "Vail Resorts Inc. Common Stock"
+  },
+  {
+    "symbol": "MTOR",
+    "name": "Meritor Inc. Common Stock"
+  },
+  {
+    "symbol": "MTR",
+    "name": "Mesa Royalty Trust Common Stock"
+  },
+  {
+    "symbol": "MTRN",
+    "name": "Materion Corporation"
+  },
+  {
+    "symbol": "MTW",
+    "name": "Manitowoc Company Inc. (The) Common Stock"
+  },
+  {
+    "symbol": "MTX",
+    "name": "Minerals Technologies Inc. Common Stock"
+  },
+  {
+    "symbol": "MTZ",
+    "name": "MasTec Inc. Common Stock"
+  },
+  {
+    "symbol": "MUA",
+    "name": "Blackrock MuniAssets Fund Inc Common Stock"
+  },
+  {
+    "symbol": "MUC",
+    "name": "Blackrock MuniHoldings California Quality Fund Inc.  Common Stock"
+  },
+  {
+    "symbol": "MUE",
+    "name": "Blackrock MuniHoldings Quality Fund II Inc. Common Stock"
+  },
+  {
+    "symbol": "MUI",
+    "name": "BlackRock Municipal Income Fund Inc. Common Stock"
+  },
+  {
+    "symbol": "MUJ",
+    "name": "Blackrock MuniHoldings New Jersey Quality Fund Inc. Common Stock"
+  },
+  {
+    "symbol": "MUR",
+    "name": "Murphy Oil Corporation Common Stock"
+  },
+  {
+    "symbol": "MUSA",
+    "name": "Murphy USA Inc. Common Stock"
+  },
+  {
+    "symbol": "MVF",
+    "name": "Blackrock MuniVest Fund Inc. Common Stock"
+  },
+  {
+    "symbol": "MVO",
+    "name": "MV Oil Trust Units of Beneficial Interests"
+  },
+  {
+    "symbol": "MVT",
+    "name": "Blackrock MuniVest Fund II Inc.  Common Stock"
+  },
+  {
+    "symbol": "MWA",
+    "name": "MUELLER WATER PRODUCTS Common Stock"
+  },
+  {
+    "symbol": "MXE",
+    "name": "Mexico Equity and Income Fund Inc. (The) Common Stock"
+  },
+  {
+    "symbol": "MXF",
+    "name": "Mexico Fund Inc. (The) Common Stock"
+  },
+  {
+    "symbol": "MYD",
+    "name": "Blackrock MuniYield Fund Inc.  Common Stock"
+  },
+  {
+    "symbol": "MYE",
+    "name": "Myers Industries Inc. Common Stock"
+  },
+  {
+    "symbol": "MYI",
+    "name": "Blackrock MuniYield Quality Fund III Inc Common Stock"
+  },
+  {
+    "symbol": "MYN",
+    "name": "Blackrock MuniYield New York Quality Fund Inc.Common Stock"
+  },
+  {
+    "symbol": "MYOV",
+    "name": "Myovant Sciences Ltd. Common Shares"
+  },
+  {
+    "symbol": "NAC",
+    "name": "Nuveen California Quality Municipal Income Fund"
+  },
+  {
+    "symbol": "NAD",
+    "name": "Nuveen Quality Municipal Income Fund Common Stock"
+  },
+  {
+    "symbol": "NAN",
+    "name": "Nuveen New York Quality Municipal Income Fund Common Stock"
+  },
+  {
+    "symbol": "NAZ",
+    "name": "Nuveen Arizona Quality Municipal Income Fund Common Stock"
+  },
+  {
+    "symbol": "NBB",
+    "name": "Nuveen Taxable Municipal Income Fund Common Shares of Beneficial Interest"
+  },
+  {
+    "symbol": "NBHC",
+    "name": "National Bank Holdings Corporation Common Stock"
+  },
+  {
+    "symbol": "NC",
+    "name": "NACCO Industries Inc. Common Stock"
+  },
+  {
+    "symbol": "NCA",
+    "name": "Nuveen California Municipal Value Fund"
+  },
+  {
+    "symbol": "NCLH",
+    "name": "Norwegian Cruise Line Holdings Ltd. Ordinary Shares"
+  },
+  {
+    "symbol": "NCR",
+    "name": "NCR Corporation Common Stock"
+  },
+  {
+    "symbol": "NCV",
+    "name": "Virtus Convertible & Income Fund Common Shares of Beneficial Interest"
+  },
+  {
+    "symbol": "NCV^A",
+    "name": "Virtus Convertible & Income Fund 5.625% Series A Cumulative Preferred Shares"
+  },
+  {
+    "symbol": "NCZ",
+    "name": "Virtus Convertible & Income Fund II Common Shares of Beneficial Interest"
+  },
+  {
+    "symbol": "NCZ^A",
+    "name": "Virtus Convertible & Income Fund II 5.50% Series A Cumulative Preferred Shares"
+  },
+  {
+    "symbol": "NDP",
+    "name": "Tortoise Energy Independence Fund Inc. Common Stock"
+  },
+  {
+    "symbol": "NEA",
+    "name": "Nuveen AMT-Free Quality Municipal Income Fund Common Shares of Beneficial Interest Par Value $.01"
+  },
+  {
+    "symbol": "NEE",
+    "name": "NextEra Energy Inc. Common Stock"
+  },
+  {
+    "symbol": "NEE^N",
+    "name": "NextEra Energy Inc. Series N Junior Subordinated Debentures due March 1 2079"
+  },
+  {
+    "symbol": "NEE^O",
+    "name": "NextEra Energy Inc. 4.872% Corporate Units"
+  },
+  {
+    "symbol": "NEE^P",
+    "name": "NextEra Energy Inc. 5.279% Corporate Units"
+  },
+  {
+    "symbol": "NEE^Q",
+    "name": "NextEra Energy Inc. 6.219% Corporate Units"
+  },
+  {
+    "symbol": "NEM",
+    "name": "Newmont Corporation"
+  },
+  {
+    "symbol": "NEP",
+    "name": "NextEra Energy Partners LP Common Units representing limited partner interests"
+  },
+  {
+    "symbol": "NET",
+    "name": "Cloudflare Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "NEU",
+    "name": "NewMarket Corp Common Stock"
+  },
+  {
+    "symbol": "NEWR",
+    "name": "New Relic Inc. Common Stock"
+  },
+  {
+    "symbol": "NEX",
+    "name": "NexTier Oilfield Solutions Inc. Common Stock"
+  },
+  {
+    "symbol": "NFG",
+    "name": "National Fuel Gas Company Common Stock"
+  },
+  {
+    "symbol": "NFJ",
+    "name": "Virtus Dividend Interest & Premium Strategy Fund Common Shares of Beneficial Interest"
+  },
+  {
+    "symbol": "NGL",
+    "name": "NGL ENERGY PARTNERS LP Common Units representing Limited Partner Interests"
+  },
+  {
+    "symbol": "NGL^B",
+    "name": "NGL ENERGY PARTNERS LP 9.00% Class B Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units representing limited partnership interests"
+  },
+  {
+    "symbol": "NGL^C",
+    "name": "NGL ENERGY PARTNERS LP 9.625% Class C Fixed-to-Floating Rate Cumulative  Redeemable Perpetual Preferred Units representing  limited partner interests"
+  },
+  {
+    "symbol": "NGS",
+    "name": "Natural Gas Services Group Inc. Common Stock"
+  },
+  {
+    "symbol": "NGVC",
+    "name": "Natural Grocers by Vitamin Cottage Inc. Common Stock"
+  },
+  {
+    "symbol": "NHI",
+    "name": "National Health Investors Inc. Common Stock"
+  },
+  {
+    "symbol": "NI",
+    "name": "NiSource Inc Common Stock"
+  },
+  {
+    "symbol": "NI^B",
+    "name": "NiSource Inc Depositary Shares representing 1/1000th ownership interest in a share of 6.50% Series B Preferred Stock and 1/1000th ownership interest in a share of Series B-1 Preferred Stock"
+  },
+  {
+    "symbol": "NIC",
+    "name": "Nicolet Bankshares Inc. Common Stock"
+  },
+  {
+    "symbol": "NID",
+    "name": "Nuveen Intermediate Duration Municipal Term Fund Common Shares of Beneficial Interest"
+  },
+  {
+    "symbol": "NIE",
+    "name": "Virtus Equity & Convertible Income Fund Common Shares of Beneficial Interest"
+  },
+  {
+    "symbol": "NIM",
+    "name": "Nuveen Select Maturities Municipal Fund Common Stock"
+  },
+  {
+    "symbol": "NIMC",
+    "name": "NiSource Inc Series A Corporate Units"
+  },
+  {
+    "symbol": "NINE",
+    "name": "Nine Energy Service Inc. Common Stock"
+  },
+  {
+    "symbol": "NJR",
+    "name": "NewJersey Resources Corporation Common Stock"
+  },
+  {
+    "symbol": "NKE",
+    "name": "Nike Inc. Common Stock"
+  },
+  {
+    "symbol": "NKG",
+    "name": "Nuveen Georgia Quality Municipal Income Fund"
+  },
+  {
+    "symbol": "NKX",
+    "name": "Nuveen California AMT-Free Quality Municipal Income Fund"
+  },
+  {
+    "symbol": "NL",
+    "name": "NL Industries Inc. Common Stock"
+  },
+  {
+    "symbol": "NLS",
+    "name": "Nautilus Inc. Common Stock"
+  },
+  {
+    "symbol": "NLY",
+    "name": "Annaly Capital Management Inc Common Stock"
+  },
+  {
+    "symbol": "NLY^F",
+    "name": "Annaly Capital Management Inc 6.95% Series F"
+  },
+  {
+    "symbol": "NLY^G",
+    "name": "Annaly Capital Management Inc 6.50% Series G Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock"
+  },
+  {
+    "symbol": "NLY^I",
+    "name": "Annaly Capital Management Inc 6.750% Series I Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock"
+  },
+  {
+    "symbol": "NMI",
+    "name": "Nuveen Municipal Income Fund Inc. Common Stock"
+  },
+  {
+    "symbol": "NMK^B",
+    "name": "Niagara Mohawk Holdings Inc. Preferred Stock"
+  },
+  {
+    "symbol": "NMK^C",
+    "name": "Niagara Mohawk Holdings Inc. Preferred Stock"
+  },
+  {
+    "symbol": "NMS",
+    "name": "Nuveen Minnesota Quality Municipal Income Fund"
+  },
+  {
+    "symbol": "NMT",
+    "name": "Nuveen Massachusetts Quality Municipal Income Fund Common Stock"
+  },
+  {
+    "symbol": "NMZ",
+    "name": "Nuveen Municipal High Income Opportunity Fund Common Stock $0.01 par value per share"
+  },
+  {
+    "symbol": "NNI",
+    "name": "Nelnet Inc. Common Stock"
+  },
+  {
+    "symbol": "NNN",
+    "name": "National Retail Properties Common Stock"
+  },
+  {
+    "symbol": "NNY",
+    "name": "Nuveen New York Municipal Value Fund Common Stock"
+  },
+  {
+    "symbol": "NOC",
+    "name": "Northrop Grumman Corporation Common Stock"
+  },
+  {
+    "symbol": "NOG",
+    "name": "Northern Oil and Gas Inc. Common Stock"
+  },
+  {
+    "symbol": "NOM",
+    "name": "Nuveen Missouri Quality Municipal Income Fund"
+  },
+  {
+    "symbol": "NOV",
+    "name": "NOV Inc. Common Stock"
+  },
+  {
+    "symbol": "NOVA",
+    "name": "Sunnova Energy International Inc. Common Stock"
+  },
+  {
+    "symbol": "NOW",
+    "name": "ServiceNow Inc. Common Stock"
+  },
+  {
+    "symbol": "NP",
+    "name": "Neenah Inc. Common Stock"
+  },
+  {
+    "symbol": "NPK",
+    "name": "National Presto Industries Inc. Common Stock"
+  },
+  {
+    "symbol": "NPO",
+    "name": "EnPro Industries Inc"
+  },
+  {
+    "symbol": "NPTN",
+    "name": "NeoPhotonics Corporation Common Stock"
+  },
+  {
+    "symbol": "NPV",
+    "name": "Nuveen Virginia Quality Municipal Income Fund Common Stock"
+  },
+  {
+    "symbol": "NQP",
+    "name": "Nuveen Pennsylvania Quality Municipal Income Fund Common Stock"
+  },
+  {
+    "symbol": "NR",
+    "name": "Newpark Resources Inc. Common Stock"
+  },
+  {
+    "symbol": "NRDY",
+    "name": "Nerdy Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "NRG",
+    "name": "NRG Energy Inc. Common Stock"
+  },
+  {
+    "symbol": "NRK",
+    "name": "Nuveen New York AMT-Free Quality Municipal Income Fund"
+  },
+  {
+    "symbol": "NRP",
+    "name": "Natural Resource Partners LP Limited Partnership"
+  },
+  {
+    "symbol": "NRT",
+    "name": "North European Oil Royality Trust Common Stock"
+  },
+  {
+    "symbol": "NRZ",
+    "name": "New Residential Investment Corp. Common Stock"
+  },
+  {
+    "symbol": "NRZ^A",
+    "name": "New Residential Investment Corp. 7.50% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock"
+  },
+  {
+    "symbol": "NRZ^B",
+    "name": "New Residential Investment Corp. 7.125% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock"
+  },
+  {
+    "symbol": "NRZ^C",
+    "name": "New Residential Investment Corp. 6.375% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock"
+  },
+  {
+    "symbol": "NRZ^D",
+    "name": "New Residential Investment Corp. 7.00% Fixed-Rate Reset Series D Cumulative Redeemable Preferred Stock"
+  },
+  {
+    "symbol": "NS",
+    "name": "Nustar Energy L.P.  Common Units"
+  },
+  {
+    "symbol": "NS^A",
+    "name": "Nustar Energy L.P. 8.50% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units"
+  },
+  {
+    "symbol": "NS^B",
+    "name": "Nustar Energy L.P. 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units representing limited partner interests"
+  },
+  {
+    "symbol": "NS^C",
+    "name": "Nustar Energy L.P. 9.00% Series C Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units"
+  },
+  {
+    "symbol": "NSC",
+    "name": "Norfolk Southern Corporation Common Stock"
+  },
+  {
+    "symbol": "NSL",
+    "name": "Nuveen Senior Income Fund Common Stock"
+  },
+  {
+    "symbol": "NSP",
+    "name": "Insperity Inc. Common Stock"
+  },
+  {
+    "symbol": "NSS",
+    "name": "NuStar Logistics L.P. 7.625% Fixed-to-Floating Rate Subordinated Notes due 2043"
+  },
+  {
+    "symbol": "NTST",
+    "name": "NetSTREIT Corp. Common Stock"
+  },
+  {
+    "symbol": "NUE",
+    "name": "Nucor Corporation Common Stock"
+  },
+  {
+    "symbol": "NUO",
+    "name": "Nuveen Ohio Quality Municipal Income Fund Common Stock"
+  },
+  {
+    "symbol": "NUS",
+    "name": "Nu Skin Enterprises Inc. Common Stock"
+  },
+  {
+    "symbol": "NUV",
+    "name": "Nuveen Municipal Value Fund Inc. Common Stock"
+  },
+  {
+    "symbol": "NUVB",
+    "name": "Nuvation Bio Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "NUW",
+    "name": "Nuveen AMT-Free Municipal Value Fund"
+  },
+  {
+    "symbol": "NVG",
+    "name": "Nuveen AMT-Free Municipal Credit Income Fund"
+  },
+  {
+    "symbol": "NVR",
+    "name": "NVR Inc. Common Stock"
+  },
+  {
+    "symbol": "NVRO",
+    "name": "Nevro Corp. Common Stock"
+  },
+  {
+    "symbol": "NVTA",
+    "name": "Invitae Corporation Common Stock"
+  },
+  {
+    "symbol": "NWN",
+    "name": "Northwest Natural Holding Company Common Stock"
+  },
+  {
+    "symbol": "NX",
+    "name": "Quanex Building Products Corporation Common Stock"
+  },
+  {
+    "symbol": "NXC",
+    "name": "Nuveen California Select Tax-Free Income Portfolio Common Stock"
+  },
+  {
+    "symbol": "NXJ",
+    "name": "Nuveen New Jersey Qualified Municipal Fund"
+  },
+  {
+    "symbol": "NXN",
+    "name": "Nuveen New York Select Tax-Free Income Portfolio Common Stock"
+  },
+  {
+    "symbol": "NXP",
+    "name": "Nuveen Select Tax Free Income Portfolio Common Stock"
+  },
+  {
+    "symbol": "NXRT",
+    "name": "NexPoint Residential Trust Inc. Common Stock"
+  },
+  {
+    "symbol": "NYCB",
+    "name": "New York Community Bancorp Inc. Common Stock"
+  },
+  {
+    "symbol": "NYCB^A",
+    "name": "New York Community Bancorp Inc. Depositary shares each representing a 1/40th interest in a share of Fixed-to-Floating Rate Series A Noncumulative Perpetual Preferred Stock"
+  },
+  {
+    "symbol": "NYCB^U",
+    "name": "New York Community Bancorp Inc. New York Community Capital Tr V (BONUSES)"
+  },
+  {
+    "symbol": "NYT",
+    "name": "New York Times Company (The) Common Stock"
+  },
+  {
+    "symbol": "NZF",
+    "name": "Nuveen Municipal Credit Income Fund"
+  },
+  {
+    "symbol": "O",
+    "name": "Realty Income Corporation Common Stock"
+  },
+  {
+    "symbol": "OAK^A",
+    "name": "Oaktree Capital Group LLC 6.625% Series A Preferred units"
+  },
+  {
+    "symbol": "OAK^B",
+    "name": "Oaktree Capital Group LLC 6.550% Series B Preferred Units"
+  },
+  {
+    "symbol": "OC",
+    "name": "Owens Corning Inc Common Stock New"
+  },
+  {
+    "symbol": "OCN",
+    "name": "Ocwen Financial Corporation NEW Common Stock"
+  },
+  {
+    "symbol": "ODC",
+    "name": "Oil-Dri Corporation Of America Common Stock"
+  },
+  {
+    "symbol": "OFC",
+    "name": "Corporate Office Properties Trust Common Stock"
+  },
+  {
+    "symbol": "OGE",
+    "name": "OGE Energy Corp Common Stock"
+  },
+  {
+    "symbol": "OHI",
+    "name": "Omega Healthcare Investors Inc. Common Stock"
+  },
+  {
+    "symbol": "OI",
+    "name": "O-I Glass Inc. Common Stock"
+  },
+  {
+    "symbol": "OIA",
+    "name": "Invesco Municipal Income Opportunities Trust Common Stock"
+  },
+  {
+    "symbol": "OII",
+    "name": "Oceaneering International Inc. Common Stock"
+  },
+  {
+    "symbol": "OIS",
+    "name": "Oil States International Inc. Common Stock"
+  },
+  {
+    "symbol": "OKE",
+    "name": "ONEOK Inc. Common Stock"
+  },
+  {
+    "symbol": "OLN",
+    "name": "Olin Corporation Common Stock"
+  },
+  {
+    "symbol": "OLP",
+    "name": "One Liberty Properties Inc. Common Stock"
+  },
+  {
+    "symbol": "OMC",
+    "name": "Omnicom Group Inc. Common Stock"
+  },
+  {
+    "symbol": "OMI",
+    "name": "Owens & Minor Inc. Common Stock"
+  },
+  {
+    "symbol": "ONTO",
+    "name": "Onto Innovation Inc. Common Stock"
+  },
+  {
+    "symbol": "OPAD",
+    "name": "Offerpad Solutions Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "OPP",
+    "name": "RiverNorth/DoubleLine Strategic Opportunity Fund Inc. Common Stock"
+  },
+  {
+    "symbol": "OPP^A",
+    "name": "RiverNorth/DoubleLine Strategic Opportunity Fund Inc. 4.375% Series A Cumulative Preferred Stock"
+  },
+  {
+    "symbol": "OPP^B",
+    "name": "RiverNorth/DoubleLine Strategic Opportunity Fund Inc. 4.75% Series B Cumulative Preferred Stock"
+  },
+  {
+    "symbol": "OPY",
+    "name": "Oppenheimer Holdings Inc. Class A Common Stock (DE)"
+  },
+  {
+    "symbol": "ORA",
+    "name": "Ormat Technologies Inc. Common Stock"
+  },
+  {
+    "symbol": "ORC",
+    "name": "Orchid Island Capital Inc. Common Stock"
+  },
+  {
+    "symbol": "ORCL",
+    "name": "Oracle Corporation Common Stock"
+  },
+  {
+    "symbol": "ORI",
+    "name": "Old Republic International Corporation Common Stock"
+  },
+  {
+    "symbol": "ORN",
+    "name": "Orion Group Holdings Inc. Common"
+  },
+  {
+    "symbol": "OSG",
+    "name": "Overseas Shipholding Group Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "OSH",
+    "name": "Oak Street Health Inc. Common Stock"
+  },
+  {
+    "symbol": "OSK",
+    "name": "Oshkosh Corporation (Holding Company)Common Stock"
+  },
+  {
+    "symbol": "OUST",
+    "name": "Ouster Inc. Common Stock"
+  },
+  {
+    "symbol": "OWL",
+    "name": "Blue Owl Capital Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "OXM",
+    "name": "Oxford Industries Inc. Common Stock"
+  },
+  {
+    "symbol": "OXY",
+    "name": "Occidental Petroleum Corporation Common Stock"
+  },
+  {
+    "symbol": "PAG",
+    "name": "Penske Automotive Group Inc. Common Stock"
+  },
+  {
+    "symbol": "PAI",
+    "name": "Western Asset Investment Grade Income Fund Inc."
+  },
+  {
+    "symbol": "PAR",
+    "name": "PAR Technology Corporation Common Stock"
+  },
+  {
+    "symbol": "PARR",
+    "name": "Par Pacific Holdings Inc.  Common Stock"
+  },
+  {
+    "symbol": "PB",
+    "name": "Prosperity Bancshares Inc. Common Stock"
+  },
+  {
+    "symbol": "PBF",
+    "name": "PBF Energy Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "PBH",
+    "name": "Prestige Consumer Healthcare Inc. Common Stock"
+  },
+  {
+    "symbol": "PBI",
+    "name": "Pitney Bowes Inc. Common Stock"
+  },
+  {
+    "symbol": "PBI^B",
+    "name": "Pitney Bowes Inc 6.70% Notes Due 2043"
+  },
+  {
+    "symbol": "PBT",
+    "name": "Permian Basin Royalty Trust Common Stock"
+  },
+  {
+    "symbol": "PCF",
+    "name": "High Income Securities Fund Common Stock"
+  },
+  {
+    "symbol": "PCG",
+    "name": "Pacific Gas & Electric Co. Common Stock"
+  },
+  {
+    "symbol": "PCGU",
+    "name": "Pacific Gas & Electric Co. Equity Unit"
+  },
+  {
+    "symbol": "PCK",
+    "name": "Pimco California Municipal Income Fund II Common Shares of Beneficial Interest"
+  },
+  {
+    "symbol": "PCM",
+    "name": "PCM Fund Inc. Common Stock"
+  },
+  {
+    "symbol": "PCN",
+    "name": "Pimco Corporate & Income Strategy Fund Common Stock"
+  },
+  {
+    "symbol": "PCQ",
+    "name": "PIMCO California Municipal Income Fund Common Stock"
+  },
+  {
+    "symbol": "PDI",
+    "name": "PIMCO Dynamic Income Fund Common Stock"
+  },
+  {
+    "symbol": "PDM",
+    "name": "Piedmont Office Realty Trust Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "PDT",
+    "name": "John Hancock Premium Dividend Fund"
+  },
+  {
+    "symbol": "PEAK",
+    "name": "Healthpeak Properties Inc. Common Stock"
+  },
+  {
+    "symbol": "PEB",
+    "name": "Pebblebrook Hotel Trust Common Shares of Beneficial Interest"
+  },
+  {
+    "symbol": "PEB^E",
+    "name": "Pebblebrook Hotel Trust 6.375% Series E Cumulative Redeemable Preferred Shares of Beneficial Interest"
+  },
+  {
+    "symbol": "PEB^F",
+    "name": "Pebblebrook Hotel Trust 6.3% Series F Cumulative Redeemable Preferred Shares of Beneficial Interest"
+  },
+  {
+    "symbol": "PEB^G",
+    "name": "Pebblebrook Hotel Trust 6.375% Series G Cumulative Redeemable Preferred Shares of Beneficial Interest"
+  },
+  {
+    "symbol": "PEB^H",
+    "name": "Pebblebrook Hotel Trust 5.700% Series H Cumulative Redeemable Preferred Shares of Beneficial Interest"
+  },
+  {
+    "symbol": "PEG",
+    "name": "Public Service Enterprise Group Incorporated Common Stock"
+  },
+  {
+    "symbol": "PEI",
+    "name": "Pennsylvania Real Estate Investment Trust Common Stock"
+  },
+  {
+    "symbol": "PEI^B",
+    "name": "Pennsylvania Real Estate Investment Trust Cumulative Redeemable Perpetual Preferred Shares Series B"
+  },
+  {
+    "symbol": "PEI^C",
+    "name": "Pennsylvania Real Estate Investment Trust 7.20% Series C Cumulative Redeemable Perpetual Preferred Shares"
+  },
+  {
+    "symbol": "PEI^D",
+    "name": "Pennsylvania Real Estate Investment Trust 6.875% Series D Cumulative Redeemable Perpetual Preferred Shares"
+  },
+  {
+    "symbol": "PEO",
+    "name": "Adams Natural Resources Fund Inc. Common Stock"
+  },
+  {
+    "symbol": "PFD",
+    "name": "Flaherty & Crumrine Preferred and Income Fund Incorporated"
+  },
+  {
+    "symbol": "PFE",
+    "name": "Pfizer Inc. Common Stock"
+  },
+  {
+    "symbol": "PFGC",
+    "name": "Performance Food Group Company Common Stock"
+  },
+  {
+    "symbol": "PFH",
+    "name": "Prudential Financial Inc. 4.125% Junior Subordinated Notes due 2060"
+  },
+  {
+    "symbol": "PFL",
+    "name": "PIMCO Income Strategy Fund Shares of Beneficial Interest"
+  },
+  {
+    "symbol": "PFLT",
+    "name": "PennantPark Floating Rate Capital Ltd. Common Stock"
+  },
+  {
+    "symbol": "PFN",
+    "name": "PIMCO Income Strategy Fund II"
+  },
+  {
+    "symbol": "PFO",
+    "name": "Flaherty & Crumrine Preferred and Income Opportunity Fund Incorporated"
+  },
+  {
+    "symbol": "PFS",
+    "name": "Provident Financial Services Inc Common Stock"
+  },
+  {
+    "symbol": "PFSI",
+    "name": "PennyMac Financial Services Inc. Common Stock"
+  },
+  {
+    "symbol": "PG",
+    "name": "Procter & Gamble Company (The) Common Stock"
+  },
+  {
+    "symbol": "PGP",
+    "name": "Pimco Global Stocksplus & Income Fund Pimco Global StocksPlus & Income Fund Common Shares of Beneficial Interest"
+  },
+  {
+    "symbol": "PGR",
+    "name": "Progressive Corporation (The) Common Stock"
+  },
+  {
+    "symbol": "PGRE",
+    "name": "Paramount Group Inc. Common Stock"
+  },
+  {
+    "symbol": "PGTI",
+    "name": "PGT Innovations Inc."
+  },
+  {
+    "symbol": "PH",
+    "name": "Parker-Hannifin Corporation Common Stock"
+  },
+  {
+    "symbol": "PHD",
+    "name": "Pioneer Floating Rate Fund Inc."
+  },
+  {
+    "symbol": "PHK",
+    "name": "Pimco High Income Fund Pimco High Income Fund"
+  },
+  {
+    "symbol": "PHM",
+    "name": "PulteGroup Inc. Common Stock"
+  },
+  {
+    "symbol": "PHR",
+    "name": "Phreesia Inc. Common Stock"
+  },
+  {
+    "symbol": "PHT",
+    "name": "Pioneer High Income Fund Inc."
+  },
+  {
+    "symbol": "PHX",
+    "name": "PHX Minerals Inc. Common Stock"
+  },
+  {
+    "symbol": "PII",
+    "name": "Polaris Inc. Common Stock"
+  },
+  {
+    "symbol": "PIM",
+    "name": "Putnam Master Intermediate Income Trust Common Stock"
+  },
+  {
+    "symbol": "PINE",
+    "name": "Alpine Income Property Trust Inc. Common Stock"
+  },
+  {
+    "symbol": "PING",
+    "name": "Ping Identity Holding Corp. Common Stock"
+  },
+  {
+    "symbol": "PIPP",
+    "name": "Pine Island Acquisition Corp. Class A Common Stock"
+  },
+  {
+    "symbol": "PIPR",
+    "name": "Piper Sandler Companies Common Stock"
+  },
+  {
+    "symbol": "PJT",
+    "name": "PJT Partners Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "PK",
+    "name": "Park Hotels & Resorts Inc. Common Stock"
+  },
+  {
+    "symbol": "PKE",
+    "name": "Park Aerospace Corp. Common Stock"
+  },
+  {
+    "symbol": "PKG",
+    "name": "Packaging Corporation of America Common Stock"
+  },
+  {
+    "symbol": "PKI",
+    "name": "PerkinElmer Inc. Common Stock"
+  },
+  {
+    "symbol": "PLD",
+    "name": "Prologis Inc. Common Stock"
+  },
+  {
+    "symbol": "PLNT",
+    "name": "Planet Fitness Inc. Common Stock"
+  },
+  {
+    "symbol": "PLOW",
+    "name": "Douglas Dynamics Inc. Common Stock"
+  },
+  {
+    "symbol": "PLYM",
+    "name": "Plymouth Industrial REIT Inc. Common Stock"
+  },
+  {
+    "symbol": "PM",
+    "name": "Philip Morris International Inc Common Stock"
+  },
+  {
+    "symbol": "PMF",
+    "name": "PIMCO Municipal Income Fund Common Stock"
+  },
+  {
+    "symbol": "PML",
+    "name": "Pimco Municipal Income Fund II Common Shares of Beneficial Interest"
+  },
+  {
+    "symbol": "PMM",
+    "name": "Putnam Managed Municipal Income Trust Common Stock"
+  },
+  {
+    "symbol": "PMO",
+    "name": "Putnam Municipal Opportunities Trust Common Stock"
+  },
+  {
+    "symbol": "PMT",
+    "name": "PennyMac Mortgage Investment Trust Common Shares of Beneficial Interest"
+  },
+  {
+    "symbol": "PMT^A",
+    "name": "PennyMac Mortgage Investment Trust 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Shares of Beneficial Interest"
+  },
+  {
+    "symbol": "PMT^B",
+    "name": "PennyMac Mortgage Investment Trust 8.00% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Shares of Beneficial Interest"
+  },
+  {
+    "symbol": "PMT^C",
+    "name": "PennyMac Mortgage Investment Trust 6.75% Series C Cumulative Redeemable Preferred Shares of Beneficial Interest"
+  },
+  {
+    "symbol": "PMVC",
+    "name": "PMV Consumer Acquisition Corp. Class A Common Stock"
+  },
+  {
+    "symbol": "PMX",
+    "name": "PIMCO Municipal Income Fund III Common Shares of Beneficial Interest"
+  },
+  {
+    "symbol": "PNC",
+    "name": "PNC Financial Services Group Inc. (The) Common Stock"
+  },
+  {
+    "symbol": "PNC^P",
+    "name": "PNC Financial Services Group Inc. (The) Depositary Shares Representing 1/4000th Perpetual Preferred Series P"
+  },
+  {
+    "symbol": "PNF",
+    "name": "PIMCO New York Municipal Income Fund Common Stock"
+  },
+  {
+    "symbol": "PNI",
+    "name": "Pimco New York Municipal Income Fund II Common Shares of Beneficial Interest"
+  },
+  {
+    "symbol": "PNM",
+    "name": "PNM Resources Inc. (Holding Co.) Common Stock"
+  },
+  {
+    "symbol": "PNNT",
+    "name": "PennantPark Investment Corporation Common Stock"
+  },
+  {
+    "symbol": "PNW",
+    "name": "Pinnacle West Capital Corporation Common Stock"
+  },
+  {
+    "symbol": "POLY",
+    "name": "Plantronics Inc. Common Stock"
+  },
+  {
+    "symbol": "POR",
+    "name": "Portland General Electric Co Common Stock"
+  },
+  {
+    "symbol": "POST",
+    "name": "Post Holdings Inc. Common Stock"
+  },
+  {
+    "symbol": "PPG",
+    "name": "PPG Industries Inc. Common Stock"
+  },
+  {
+    "symbol": "PPL",
+    "name": "PPL Corporation Common Stock"
+  },
+  {
+    "symbol": "PPT",
+    "name": "Putnam Premier Income Trust Common Stock"
+  },
+  {
+    "symbol": "PRA",
+    "name": "ProAssurance Corporation Common Stock"
+  },
+  {
+    "symbol": "PRG",
+    "name": "PROG Holdings Inc. Common Stock"
+  },
+  {
+    "symbol": "PRGO",
+    "name": "Perrigo Company plc Ordinary Shares"
+  },
+  {
+    "symbol": "PRI",
+    "name": "Primerica Inc. Common Stock"
+  },
+  {
+    "symbol": "PRLB",
+    "name": "Proto Labs Inc. Common stock"
+  },
+  {
+    "symbol": "PRO",
+    "name": "PROS Holdings Inc. Common Stock"
+  },
+  {
+    "symbol": "PRPB",
+    "name": "CC Neuberger Principal Holdings II Class A Ordinary Shares"
+  },
+  {
+    "symbol": "PRS",
+    "name": "Prudential Financial Inc. 5.625% Junior Subordinated Notes due 2058"
+  },
+  {
+    "symbol": "PRT",
+    "name": "PermRock Royalty Trust Trust Units"
+  },
+  {
+    "symbol": "PRTY",
+    "name": "Party City Holdco Inc. Common Stock"
+  },
+  {
+    "symbol": "PRU",
+    "name": "Prudential Financial Inc. Common Stock"
+  },
+  {
+    "symbol": "PSA",
+    "name": "Public Storage Common Stock"
+  },
+  {
+    "symbol": "PSA^F",
+    "name": "Public Storage Depositary Shares Each Representing 1/1000 of a 5.15% Cumulative Preferred Share of Beneficial Interest Series F par value $0.01 per share"
+  },
+  {
+    "symbol": "PSA^G",
+    "name": "Public Storage Depositary Shares Each Representing 1/1000 of a 5.05% Cumulative Preferred Share of Beneficial Interest Series G"
+  },
+  {
+    "symbol": "PSA^H",
+    "name": "Public Storage Depositary Shares Each Representing 1/1000 of a  5.60% Cumulative Preferred  Share of Beneficial Interest Series H"
+  },
+  {
+    "symbol": "PSA^I",
+    "name": "Public Storage Depositary Shares Each Representing 1/1000 of a 4.875% Cumulative Preferred Share of Beneficial Interest Series I par value $0.01 per share"
+  },
+  {
+    "symbol": "PSA^J",
+    "name": "Public Storage Depositary Shares Each Representing 1/1000 of a 4.700% Cumulative Preferred Share of Beneficial Interest Series J par value $0.01 per share"
+  },
+  {
+    "symbol": "PSA^K",
+    "name": "Public Storage Depositary Shares Each Representing 1/1000 of a 4.75% Cumulative Preferred Share of Beneficial Interest Series K"
+  },
+  {
+    "symbol": "PSA^L",
+    "name": "Public Storage Depositary Shares Each Representing 1/1000 of a 4.625% Cumulative Preferred Share of Beneficial Interest Series L par value $0.01 per share"
+  },
+  {
+    "symbol": "PSA^M",
+    "name": "Public Storage Depositary Shares Each Representing 1/1000 of a 4.125% Cumulative Preferred Share of Beneficial Interest Series M"
+  },
+  {
+    "symbol": "PSA^N",
+    "name": "Public Storage Depositary Shares Each Representing 1/1000 of a 3.875% Cumulative Preferred Share of Beneficial Interest Series N"
+  },
+  {
+    "symbol": "PSA^O",
+    "name": "Public Storage Depositary Shares Each Representing 1/1000 of a 3.900% Cumulative Preferred Share of Beneficial Interest Series O"
+  },
+  {
+    "symbol": "PSA^P",
+    "name": "Public Storage Depositary Shares Each Representing 1/1000 of a 4.000% Cumulative Preferred Share of Bene cial Interest Series P"
+  },
+  {
+    "symbol": "PSA^Q",
+    "name": "Public Storage Depositary Shares Each Representing 1/1000 of a 3.950% Cumulative Preferred Share of Beneficial Interest Series Q par value $0.01 per share"
+  },
+  {
+    "symbol": "PSA^R",
+    "name": "Public Storage Depositary Shares Each Representing 1/1000 of a 4.00% Cumulative Preferred Share of Bene cial Interest Series R"
+  },
+  {
+    "symbol": "PSA^S",
+    "name": "Public Storage Depositary Shares Each Representing 1/1000 of a 4.100% Cumulative Preferred Share of Beneficial Interest Series S"
+  },
+  {
+    "symbol": "PSB",
+    "name": "PS Business Parks Inc. (MD) Common Stock"
+  },
+  {
+    "symbol": "PSB^X",
+    "name": "PS Business Parks Inc. Depositary Shares Each Representing 1/1000 of a Share of 5.25% Cumulative Preferred Stock Series X"
+  },
+  {
+    "symbol": "PSB^Y",
+    "name": "PS Business Parks Inc. 5.20% Cumulative Preferred Stock Series Y"
+  },
+  {
+    "symbol": "PSB^Z",
+    "name": "PS Business Parks Inc. Depositary Shares Each Representing 1/1000 of a Share of 4.875% Cumulative Preferred Stock Series Z  par value $0.01 per share"
+  },
+  {
+    "symbol": "PSEC^A",
+    "name": "Prospect Capital Corporation 5.35% Series A Fixed Rate Cumulative Perpetual Preferred Stock"
+  },
+  {
+    "symbol": "PSX",
+    "name": "Phillips 66 Common Stock"
+  },
+  {
+    "symbol": "PTY",
+    "name": "Pimco Corporate & Income Opportunity Fund"
+  },
+  {
+    "symbol": "PUMP",
+    "name": "ProPetro Holding Corp. Common Stock"
+  },
+  {
+    "symbol": "PVH",
+    "name": "PVH Corp. Common Stock"
+  },
+  {
+    "symbol": "PVL",
+    "name": "Permianville Royalty Trust Trust Units"
+  },
+  {
+    "symbol": "PWR",
+    "name": "Quanta Services Inc. Common Stock"
+  },
+  {
+    "symbol": "PXD",
+    "name": "Pioneer Natural Resources Company Common Stock"
+  },
+  {
+    "symbol": "PYN",
+    "name": "PIMCO New York Municipal Income Fund III Common Shares of Beneficial Interest"
+  },
+  {
+    "symbol": "PYS",
+    "name": "Merrill Lynch Depositor Inc PPlus Tr Ser RRD-1 Tr Ctf Cl A"
+  },
+  {
+    "symbol": "PZC",
+    "name": "PIMCO California Municipal Income Fund III Common Shares of Beneficial Interest"
+  },
+  {
+    "symbol": "PZN",
+    "name": "Pzena Investment Management Inc Class A Common Stock"
+  },
+  {
+    "symbol": "QS",
+    "name": "QuantumScape Corporation Class A Common Stock"
+  },
+  {
+    "symbol": "QUAD",
+    "name": "Quad Graphics Inc Class A Common Stock"
+  },
+  {
+    "symbol": "QVCC",
+    "name": "QVC Inc. 6.250% Senior Secured Notes due 2068"
+  },
+  {
+    "symbol": "QVCD",
+    "name": "QVC Inc. 6.375% Senior Secured Notes due 2067"
+  },
+  {
+    "symbol": "R",
+    "name": "Ryder System Inc. Common Stock"
+  },
+  {
+    "symbol": "RAD",
+    "name": "Rite Aid Corporation Common Stock"
+  },
+  {
+    "symbol": "RAMP",
+    "name": "LiveRamp Holdings Inc. Common Stock"
+  },
+  {
+    "symbol": "RBAC",
+    "name": "RedBall Acquisition Corp. Class A Ordinary Shares"
+  },
+  {
+    "symbol": "RC",
+    "name": "Ready Capital Corproation Common Stock"
+  },
+  {
+    "symbol": "RC^C",
+    "name": "Ready Capital Corporation 6.25% Series C Cumulative Convertible Preferred Stock"
+  },
+  {
+    "symbol": "RC^E",
+    "name": "Ready Capital Corporation 6.50% Series E Cumulative Redeemable Preferred Stock"
+  },
+  {
+    "symbol": "RCA",
+    "name": "Ready Capital Corporation 7.00% Convertible Senior Notes due 2023"
+  },
+  {
+    "symbol": "RCB",
+    "name": "Ready Capital Corporation 6.20% Senior Notes due 2026"
+  },
+  {
+    "symbol": "RCC",
+    "name": "Ready Capital Corporation 5.75% Senior Notes due 2026"
+  },
+  {
+    "symbol": "RCL",
+    "name": "D/B/A Royal Caribbean Cruises Ltd. Common Stock"
+  },
+  {
+    "symbol": "RCS",
+    "name": "PIMCO Strategic Income Fund Inc."
+  },
+  {
+    "symbol": "RDN",
+    "name": "Radian Group Inc. Common Stock"
+  },
+  {
+    "symbol": "RDW",
+    "name": "Redwire Corporation Common Stock"
+  },
+  {
+    "symbol": "RES",
+    "name": "RPC Inc. Common Stock"
+  },
+  {
+    "symbol": "REV",
+    "name": "Revlon Inc. New Common Stock"
+  },
+  {
+    "symbol": "REVG",
+    "name": "REV Group Inc. Common Stock"
+  },
+  {
+    "symbol": "REX",
+    "name": "REX American Resources Corporation"
+  },
+  {
+    "symbol": "REXR",
+    "name": "Rexford Industrial Realty Inc. Common Stock"
+  },
+  {
+    "symbol": "REXR^B",
+    "name": "Rexford Industrial Realty Inc. 5.875% Series B Cumulative Redeemable Preferred Stock"
+  },
+  {
+    "symbol": "REXR^C",
+    "name": "Rexford Industrial Realty Inc. 5.625% Series C Cumulative Redeemable Preferred Stock par value $0.01 per share"
+  },
+  {
+    "symbol": "RF",
+    "name": "Regions Financial Corporation Common Stock"
+  },
+  {
+    "symbol": "RF^B",
+    "name": "Regions Financial Corporation Depositary Shares Representing 1/40th Perpetual Preferred Series B"
+  },
+  {
+    "symbol": "RF^C",
+    "name": "Regions Financial Corporation Depositary Shares each Representing a 1/40th Interest in a  Share of 5.700% Fixed-to-Floating Rate Non-Cumulative  Perpetual Preferred Stock Series C"
+  },
+  {
+    "symbol": "RF^E",
+    "name": "Regions Financial Corporation Depositary Shares Each Representing a 1/40th Interest in a Share of 4.45% Non-Cumulative Perpetual Preferred Stock Series E"
+  },
+  {
+    "symbol": "RFI",
+    "name": "Cohen & Steers Total Return Realty Fund Inc. Common Stock"
+  },
+  {
+    "symbol": "RFL",
+    "name": "Rafael Holdings Inc. Class B Common Stock"
+  },
+  {
+    "symbol": "RGA",
+    "name": "Reinsurance Group of America Incorporated Common Stock"
+  },
+  {
+    "symbol": "RGR",
+    "name": "Sturm Ruger & Company Inc. Common Stock"
+  },
+  {
+    "symbol": "RGS",
+    "name": "Regis Corporation Common Stock"
+  },
+  {
+    "symbol": "RH",
+    "name": "RH Common Stock"
+  },
+  {
+    "symbol": "RHI",
+    "name": "Robert Half International Inc. Common Stock"
+  },
+  {
+    "symbol": "RHP",
+    "name": "Ryman Hospitality Properties Inc. (REIT)"
+  },
+  {
+    "symbol": "RJF",
+    "name": "Raymond James Financial Inc. Common Stock"
+  },
+  {
+    "symbol": "RJF^A",
+    "name": "Raymond James Financial Inc. Depositary Shares each representing a 1/40th interest in a share of 6.75% Fixed-to-Floating Rate Series A Non-Cumulative Perpetual Preferred Stock"
+  },
+  {
+    "symbol": "RJF^B",
+    "name": "Raymond James Financial Inc. Depositary Shares each representing a 1/40th interest in a share of 6.375% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock"
+  },
+  {
+    "symbol": "RKT",
+    "name": "Rocket Companies Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "RL",
+    "name": "Ralph Lauren Corporation Common Stock"
+  },
+  {
+    "symbol": "RLI",
+    "name": "RLI Corp. Common Stock (DE)"
+  },
+  {
+    "symbol": "RLJ",
+    "name": "RLJ Lodging Trust Common Shares of Beneficial Interest $0.01 par value"
+  },
+  {
+    "symbol": "RLJ^A",
+    "name": "RLJ Lodging Trust $1.95 Series A Cumulative Convertible  Preferred Shares"
+  },
+  {
+    "symbol": "RM",
+    "name": "Regional Management Corp. Common Stock"
+  },
+  {
+    "symbol": "RMD",
+    "name": "ResMed Inc. Common Stock"
+  },
+  {
+    "symbol": "RMT",
+    "name": "Royce Micro-Cap Trust Inc. Common Stock"
+  },
+  {
+    "symbol": "RNGR",
+    "name": "Ranger Energy Services Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "RNP",
+    "name": "Cohen & Steers REIT and Preferred and Income Fund Inc. Common Shares"
+  },
+  {
+    "symbol": "ROG",
+    "name": "Rogers Corporation Common Stock"
+  },
+  {
+    "symbol": "ROK",
+    "name": "Rockwell Automation Inc. Common Stock"
+  },
+  {
+    "symbol": "ROL",
+    "name": "Rollins Inc. Common Stock"
+  },
+  {
+    "symbol": "ROP",
+    "name": "Roper Technologies Inc. Common Stock"
+  },
+  {
+    "symbol": "RPM",
+    "name": "RPM International Inc. Common Stock"
+  },
+  {
+    "symbol": "RPT",
+    "name": "RPT Realty Common Stock"
+  },
+  {
+    "symbol": "RPT^D",
+    "name": "RPT Realty 7.25%"
+  },
+  {
+    "symbol": "RQI",
+    "name": "Cohen & Steers Quality Income Realty Fund Inc Common Shares"
+  },
+  {
+    "symbol": "RRC",
+    "name": "Range Resources Corporation Common Stock"
+  },
+  {
+    "symbol": "RRX",
+    "name": "Regal Rexnord Corporation Common Stock"
+  },
+  {
+    "symbol": "RS",
+    "name": "Reliance Steel & Aluminum Co. Common Stock (DE)"
+  },
+  {
+    "symbol": "RSG",
+    "name": "Republic Services Inc. Common Stock"
+  },
+  {
+    "symbol": "RTX",
+    "name": "Raytheon Technologies Corporation Common Stock"
+  },
+  {
+    "symbol": "RVT",
+    "name": "Royce Value Trust Inc. Common Stock"
+  },
+  {
+    "symbol": "RWT",
+    "name": "Redwood Trust Inc. Common Stock"
+  },
+  {
+    "symbol": "RYAM",
+    "name": "Rayonier Advanced Materials Inc. Common Stock"
+  },
+  {
+    "symbol": "RYI",
+    "name": "Ryerson Holding Corporation Common Stock"
+  },
+  {
+    "symbol": "RYN",
+    "name": "Rayonier Inc. REIT Common Stock"
+  },
+  {
+    "symbol": "RZA",
+    "name": "Reinsurance Group of America Incorporated 6.20% Fixed-to-Floating Rate Subordinated Debentures due 2042"
+  },
+  {
+    "symbol": "RZB",
+    "name": "Reinsurance Group of America Incorporated 5.75% Fixed-To-Floating Rate Subordinated Debentures due 2056"
+  },
+  {
+    "symbol": "S",
+    "name": "SentinelOne Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "SAFE",
+    "name": "Safehold Inc. Common Stock"
+  },
+  {
+    "symbol": "SAH",
+    "name": "Sonic Automotive Inc. Common Stock"
+  },
+  {
+    "symbol": "SAIL",
+    "name": "SailPoint Technologies Holdings Inc. Common Stock"
+  },
+  {
+    "symbol": "SAK",
+    "name": "Saratoga Investment Corp 7.25% Notes due 2025"
+  },
+  {
+    "symbol": "SAM",
+    "name": "Boston Beer Company Inc. (The) Common Stock"
+  },
+  {
+    "symbol": "SAR",
+    "name": "Saratoga Investment Corp New"
+  },
+  {
+    "symbol": "SAT",
+    "name": "Saratoga Investment Corp 6.00% Notes due 2027"
+  },
+  {
+    "symbol": "SAVE",
+    "name": "Spirit Airlines Inc. Common Stock"
+  },
+  {
+    "symbol": "SBH",
+    "name": "Sally Beauty Holdings Inc. (Name to be changed from Sally Holdings Inc.) Common Stock"
+  },
+  {
+    "symbol": "SBI",
+    "name": "Western Asset Intermediate Muni Fund Inc Common Stock"
+  },
+  {
+    "symbol": "SBR",
+    "name": "Sabine Royalty Trust Common Stock"
+  },
+  {
+    "symbol": "SCCO",
+    "name": "Southern Copper Corporation Common Stock"
+  },
+  {
+    "symbol": "SCD",
+    "name": "LMP Capital and Income Fund Inc. Common Stock"
+  },
+  {
+    "symbol": "SCE^G",
+    "name": "SCE Trust II Trust Preferred Securities"
+  },
+  {
+    "symbol": "SCE^H",
+    "name": "SCE Trust III Fixed/Floating Rate Trust Preference Securities"
+  },
+  {
+    "symbol": "SCE^J",
+    "name": "Southern California Edison Company 5.375% Fixed-to-Floating Rate Trust Preference Securities"
+  },
+  {
+    "symbol": "SCE^K",
+    "name": "Southern California Edison Company 5.45% Fixed-to-Floating Rate Trust Preference Securities"
+  },
+  {
+    "symbol": "SCE^L",
+    "name": "SCE TRUST VI"
+  },
+  {
+    "symbol": "SCHW",
+    "name": "Charles Schwab Corporation (The) Common Stock"
+  },
+  {
+    "symbol": "SCHW^D",
+    "name": "The Charles Schwab Corporation Depositary Shares each representing 1/40th interest in a share of 5.95% Non-Cumulative Perpetual Preferred Stock Series D"
+  },
+  {
+    "symbol": "SCHW^J",
+    "name": "The Charles Schwab Corporation Depositary Shares Each Representing a 1/40th Interest in a Share of 4.450% Non-Cumulative Perpetual Preferred Stock Series J"
+  },
+  {
+    "symbol": "SCI",
+    "name": "Service Corporation International Common Stock"
+  },
+  {
+    "symbol": "SCL",
+    "name": "Stepan Company Common Stock"
+  },
+  {
+    "symbol": "SCM",
+    "name": "Stellus Capital Investment Corporation Common Stock"
+  },
+  {
+    "symbol": "SCS",
+    "name": "Steelcase Inc. Common Stock"
+  },
+  {
+    "symbol": "SCU",
+    "name": "Sculptor Capital Management Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "SCX",
+    "name": "L.S. Starrett Company (The) Common Stock"
+  },
+  {
+    "symbol": "SE",
+    "name": "Sea Limited American Depositary Shares each representing one Class A Ordinary Share"
+  },
+  {
+    "symbol": "SEAS",
+    "name": "SeaWorld Entertainment Inc. Common Stock"
+  },
+  {
+    "symbol": "SEE",
+    "name": "Sealed Air Corporation Common Stock"
+  },
+  {
+    "symbol": "SEM",
+    "name": "Select Medical Holdings Corporation Common Stock"
+  },
+  {
+    "symbol": "SF",
+    "name": "Stifel Financial Corporation Common Stock"
+  },
+  {
+    "symbol": "SF^B",
+    "name": "Stifel Financial Corporation Depositary Shares Each Representing 1/1000th  Interest in a Share of 6.25% Non-Cumulative  Preferred Stock Series B"
+  },
+  {
+    "symbol": "SF^C",
+    "name": "Stifel Financial Corporation Depositary Shares Each Representing 1/1000th Interest in a Share of 6.125% Non Cumulative Preferred Stock Series C"
+  },
+  {
+    "symbol": "SF^D",
+    "name": "Stifel Financial Corporation Depositary Shares Each Representing 1/1000th Interest in a Share of 4.50% Non-Cumulative Preferred Stock Series D"
+  },
+  {
+    "symbol": "SFB",
+    "name": "Stifel Financial Corporation 5.20% Senior Notes due 2047"
+  },
+  {
+    "symbol": "SFBS",
+    "name": "ServisFirst Bancshares Inc. Common Stock"
+  },
+  {
+    "symbol": "SFE",
+    "name": "Safeguard Scientifics Inc. New Common Stock"
+  },
+  {
+    "symbol": "SGU",
+    "name": "Star Group L.P. Common Stock"
+  },
+  {
+    "symbol": "SHAK",
+    "name": "Shake Shack Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "SHLX",
+    "name": "Shell Midstream Partners L.P. Common Units representing Limited Partner Interests"
+  },
+  {
+    "symbol": "SHO",
+    "name": "Sunstone Hotel Investors Inc. Sunstone Hotel Investors Inc. Common Shares"
+  },
+  {
+    "symbol": "SHO^H",
+    "name": "Sunstone Hotel Investors Inc. 6.125% Series H Cumulative Redeemable Preferred Stock"
+  },
+  {
+    "symbol": "SHO^I",
+    "name": "Sunstone Hotel Investors Inc. 5.70% Series I Cumulative Redeemable Preferred Stock"
+  },
+  {
+    "symbol": "SHW",
+    "name": "Sherwin-Williams Company (The) Common Stock"
+  },
+  {
+    "symbol": "SI",
+    "name": "Silvergate Capital Corporation Class A Common Stock"
+  },
+  {
+    "symbol": "SI^A",
+    "name": "Silvergate Capital Corporation Depositary Shares Each Representing a 1/40th Interest in a Share of 5.375% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series A"
+  },
+  {
+    "symbol": "SITC",
+    "name": "SITE Centers Corp. Common Stock"
+  },
+  {
+    "symbol": "SITC^A",
+    "name": "SITE Centers Corp. 6.375% Class A Preferred Shares"
+  },
+  {
+    "symbol": "SITE",
+    "name": "SiteOne Landscape Supply Inc. Common Stock"
+  },
+  {
+    "symbol": "SIX",
+    "name": "Six Flags Entertainment Corporation New Common Stock"
+  },
+  {
+    "symbol": "SJI",
+    "name": "South Jersey Industries Inc. Common Stock"
+  },
+  {
+    "symbol": "SJIJ",
+    "name": "South Jersey Industries Inc. 5.625% Junior Subordinated Notes due 2079"
+  },
+  {
+    "symbol": "SJIV",
+    "name": "South Jersey Industries Inc. Corporate Units"
+  },
+  {
+    "symbol": "SJM",
+    "name": "J.M. Smucker Company (The) New Common Stock"
+  },
+  {
+    "symbol": "SJT",
+    "name": "San Juan Basin Royalty Trust Common Stock"
+  },
+  {
+    "symbol": "SJW",
+    "name": "SJW Group Common Stock (DE)"
+  },
+  {
+    "symbol": "SKT",
+    "name": "Tanger Factory Outlet Centers Inc. Common Stock"
+  },
+  {
+    "symbol": "SKX",
+    "name": "Skechers U.S.A. Inc. Common Stock"
+  },
+  {
+    "symbol": "SKY",
+    "name": "Skyline Champion Corporation Common Stock"
+  },
+  {
+    "symbol": "SLCA",
+    "name": "U.S. Silica Holdings Inc. Common Stock"
+  },
+  {
+    "symbol": "SLG",
+    "name": "SL Green Realty Corp Common Stock"
+  },
+  {
+    "symbol": "SLG^I",
+    "name": "SL Green Realty Corporation Preferred Series I"
+  },
+  {
+    "symbol": "SLVM",
+    "name": "Sylvamo Corporation Common Stock"
+  },
+  {
+    "symbol": "SM",
+    "name": "SM Energy Company Common Stock"
+  },
+  {
+    "symbol": "SMAR",
+    "name": "Smartsheet Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "SMG",
+    "name": "Scotts Miracle-Gro Company (The) Common Stock"
+  },
+  {
+    "symbol": "SMLP",
+    "name": "Summit Midstream Partners LP Common Units Representing Limited Partner Interests"
+  },
+  {
+    "symbol": "SMM",
+    "name": "Salient Midstream Common Shares of Beneficial Interest"
+  },
+  {
+    "symbol": "SMP",
+    "name": "Standard Motor Products Inc. Common Stock"
+  },
+  {
+    "symbol": "SMRT",
+    "name": "SmartRent Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "SNA",
+    "name": "Snap-On Incorporated Common Stock"
+  },
+  {
+    "symbol": "SNAP",
+    "name": "Snap Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "SNDA",
+    "name": "Sonida Senior Living Inc. Common Stock"
+  },
+  {
+    "symbol": "SNDR",
+    "name": "Schneider National Inc. Common Stock"
+  },
+  {
+    "symbol": "SNOW",
+    "name": "Snowflake Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "SNV",
+    "name": "Synovus Financial Corp. Common Stock"
+  },
+  {
+    "symbol": "SNV^D",
+    "name": "Synovus Financial Corp. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock Series D Liquation Preference $25.00 per Share"
+  },
+  {
+    "symbol": "SNV^E",
+    "name": "Synovus Financial Corp. 5.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock Series E"
+  },
+  {
+    "symbol": "SNX",
+    "name": "TD SYNNEX Corporation Common Stock"
+  },
+  {
+    "symbol": "SO",
+    "name": "Southern Company (The) Common Stock"
+  },
+  {
+    "symbol": "SOI",
+    "name": "Solaris Oilfield Infrastructure Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "SOJC",
+    "name": "Southern Company (The) Series 2017B 5.25% Junior Subordinated Notes due December 1 2077"
+  },
+  {
+    "symbol": "SOJD",
+    "name": "Southern Company (The) Series 2020A 4.95% Junior Subordinated Notes due January 30 2080"
+  },
+  {
+    "symbol": "SOJE",
+    "name": "Southern Company (The) Series 2020C 4.20% Junior Subordinated Notes due October 15 2060"
+  },
+  {
+    "symbol": "SOLN",
+    "name": "Southern Company (The) 2019 Series A Corporate Units"
+  },
+  {
+    "symbol": "SON",
+    "name": "Sonoco Products Company Common Stock"
+  },
+  {
+    "symbol": "SOR",
+    "name": "Source Capital Inc. Common Stock"
+  },
+  {
+    "symbol": "SPB",
+    "name": "Spectrum Brands Holdings Inc. Common Stock"
+  },
+  {
+    "symbol": "SPE",
+    "name": "Special Opportunities Fund Inc Common Stock"
+  },
+  {
+    "symbol": "SPE^C",
+    "name": "Special Opportunities Fund Inc. 2.75% Convertible Preferred Stock Series C"
+  },
+  {
+    "symbol": "SPG",
+    "name": "Simon Property Group Inc. Common Stock"
+  },
+  {
+    "symbol": "SPG^J",
+    "name": "Simon Property Group Inc. Simon Property Group 8 3/8% Series J Cumulative Redeemable Preferred Stock"
+  },
+  {
+    "symbol": "SPGI",
+    "name": "S&P Global Inc. Common Stock"
+  },
+  {
+    "symbol": "SPH",
+    "name": "Suburban Propane Partners L.P. Common Stock"
+  },
+  {
+    "symbol": "SPLP",
+    "name": "Steel Partners Holdings LP LTD PARTNERSHIP UNIT"
+  },
+  {
+    "symbol": "SPLP^A",
+    "name": "Steel Partners Holdings LP 6.0% Series A Preferred Units no par value"
+  },
+  {
+    "symbol": "SPR",
+    "name": "Spirit Aerosystems Holdings Inc. Common Stock"
+  },
+  {
+    "symbol": "SPXC",
+    "name": "SPX Corporation Common Stock"
+  },
+  {
+    "symbol": "SPXX",
+    "name": "Nuveen S&P 500 Dynamic Overwrite Fund"
+  },
+  {
+    "symbol": "SQ",
+    "name": "Block Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "SQZ",
+    "name": "SQZ Biotechnologies Company Common Stock"
+  },
+  {
+    "symbol": "SR",
+    "name": "Spire Inc. Common Stock"
+  },
+  {
+    "symbol": "SR^A",
+    "name": "Spire Inc. Depositary Shares each representing a 1/1000th interest in a share of 5.90% Series A Cumulative Redeemable Perpetual Preferred Stock"
+  },
+  {
+    "symbol": "SRC",
+    "name": "Spirit Realty Capital Inc. Common Stock"
+  },
+  {
+    "symbol": "SRC^A",
+    "name": "Spirit Realty Capital Inc. 6.000% Series A Cumulative Redeemable Preferred Stock"
+  },
+  {
+    "symbol": "SRE",
+    "name": "DBA Sempra Common Stock"
+  },
+  {
+    "symbol": "SREA",
+    "name": "DBA Sempra 5.750% Junior Subordinated Notes due 2079"
+  },
+  {
+    "symbol": "SRG",
+    "name": "Seritage Growth Properties Class A Common Stock"
+  },
+  {
+    "symbol": "SRG^A",
+    "name": "Seritage Growth Properties 7.00% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest"
+  },
+  {
+    "symbol": "SRI",
+    "name": "Stoneridge Inc. Common Stock"
+  },
+  {
+    "symbol": "SRT",
+    "name": "StarTek Inc. Common Stock"
+  },
+  {
+    "symbol": "SRV",
+    "name": "Cushing MLP & Infrastructure Total Return Fund"
+  },
+  {
+    "symbol": "SSD",
+    "name": "Simpson Manufacturing Company Inc. Common Stock"
+  },
+  {
+    "symbol": "SST",
+    "name": "System1 Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "SSTK",
+    "name": "Shutterstock Inc. Common Stock"
+  },
+  {
+    "symbol": "STAG",
+    "name": "Stag Industrial Inc. Common Stock"
+  },
+  {
+    "symbol": "STAR",
+    "name": "iStar Inc. Common Stock"
+  },
+  {
+    "symbol": "STAR^D",
+    "name": "iStar Inc. Series D Cumulative Redeemable Preferred Stock"
+  },
+  {
+    "symbol": "STAR^G",
+    "name": "iStar Inc. Series G Cumulative Redeemable Preferred Stock"
+  },
+  {
+    "symbol": "STAR^I",
+    "name": "iStar Inc. Series I Cumulative Redeemable Preferred Stock"
+  },
+  {
+    "symbol": "STC",
+    "name": "Stewart Information Services Corporation Common Stock"
+  },
+  {
+    "symbol": "STE",
+    "name": "STERIS plc (Ireland) Ordinary Shares"
+  },
+  {
+    "symbol": "STEM",
+    "name": "Stem Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "STEW",
+    "name": "SRH Total Return Fund Inc. Common Stock"
+  },
+  {
+    "symbol": "STK",
+    "name": "Columbia Seligman Premium Technology Growth Fund Inc"
+  },
+  {
+    "symbol": "STON",
+    "name": "StoneMor Inc. Common Stock"
+  },
+  {
+    "symbol": "STOR",
+    "name": "STORE Capital Corporation Common Stock"
+  },
+  {
+    "symbol": "STR",
+    "name": "Sitio Royalties Corp. Class A Common Stock"
+  },
+  {
+    "symbol": "STT",
+    "name": "State Street Corporation Common Stock"
+  },
+  {
+    "symbol": "STT^D",
+    "name": "State Street Corporation Depositary Shares representing 1/4000th Perpetual Preferred Series D"
+  },
+  {
+    "symbol": "STT^G",
+    "name": "State Street Corporation Depositary shares each representing a 1/4000th ownership interest in a share of Fixed-to-Floating Rate Non-Cumulative"
+  },
+  {
+    "symbol": "STWD",
+    "name": "STARWOOD PROPERTY TRUST INC. Starwood Property Trust Inc."
+  },
+  {
+    "symbol": "STZ",
+    "name": "Constellation Brands Inc. Common Stock"
+  },
+  {
+    "symbol": "STZ/B",
+    "name": "Constellation Brands Inc"
+  },
+  {
+    "symbol": "SUI",
+    "name": "Sun Communities Inc. Common Stock"
+  },
+  {
+    "symbol": "SUM",
+    "name": "Summit Materials Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "SUN",
+    "name": "Sunoco LP Common Units representing limited partner interests"
+  },
+  {
+    "symbol": "SUNL",
+    "name": "Sunlight Financial Holdings Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "SUP",
+    "name": "Superior Industries International Inc. Common Stock (DE)"
+  },
+  {
+    "symbol": "SWI",
+    "name": "SolarWinds Corporation Common Stock"
+  },
+  {
+    "symbol": "SWK",
+    "name": "Stanley Black & Decker Inc. Common Stock"
+  },
+  {
+    "symbol": "SWM",
+    "name": "Schweitzer-Mauduit International Inc. Common Stock"
+  },
+  {
+    "symbol": "SWN",
+    "name": "Southwestern Energy Company Common Stock"
+  },
+  {
+    "symbol": "SWT",
+    "name": "Stanley Black & Decker Inc. Corporate Unit"
+  },
+  {
+    "symbol": "SWX",
+    "name": "Southwest Gas Holdings Inc. Common Stock (DE)"
+  },
+  {
+    "symbol": "SWZ",
+    "name": "Swiss Helvetia Fund Inc. (The) Common Stock"
+  },
+  {
+    "symbol": "SXC",
+    "name": "SunCoke Energy Inc. Common Stock"
+  },
+  {
+    "symbol": "SXI",
+    "name": "Standex International Corporation Common Stock"
+  },
+  {
+    "symbol": "SXT",
+    "name": "Sensient Technologies Corporation Common Stock"
+  },
+  {
+    "symbol": "SYF",
+    "name": "Synchrony Financial Common Stock"
+  },
+  {
+    "symbol": "SYF^A",
+    "name": "Synchrony Financial Depositary Shares each Representing a 1/40th Interest in a Share of 5.625% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series A"
+  },
+  {
+    "symbol": "SYK",
+    "name": "Stryker Corporation Common Stock"
+  },
+  {
+    "symbol": "SYY",
+    "name": "Sysco Corporation Common Stock"
+  },
+  {
+    "symbol": "T",
+    "name": "AT&T Inc."
+  },
+  {
+    "symbol": "T^A",
+    "name": "AT&T Inc. Depositary Shares each representing a 1/1000th interest in a share of 5.000% Perpetual Preferred Stock Series A"
+  },
+  {
+    "symbol": "T^C",
+    "name": "AT&T Inc. Depositary Shares each representing a 1/1000th interest in a share of 4.750% Perpetual Preferred Stock Series C"
+  },
+  {
+    "symbol": "TBB",
+    "name": "AT&T Inc. 5.350% Global Notes due 2066"
+  },
+  {
+    "symbol": "TBC",
+    "name": "AT&T Inc. 5.625% Global Notes due 2067"
+  },
+  {
+    "symbol": "TBI",
+    "name": "TrueBlue Inc. Common Stock"
+  },
+  {
+    "symbol": "TCI",
+    "name": "Transcontinental Realty Investors Inc. Common Stock"
+  },
+  {
+    "symbol": "TDC",
+    "name": "Teradata Corporation Common Stock"
+  },
+  {
+    "symbol": "TDF",
+    "name": "Templeton Dragon Fund Inc. Common Stock"
+  },
+  {
+    "symbol": "TDG",
+    "name": "Transdigm Group Incorporated Common Stock"
+  },
+  {
+    "symbol": "TDOC",
+    "name": "Teladoc Health Inc. Common Stock"
+  },
+  {
+    "symbol": "TDS",
+    "name": "Telephone and Data Systems Inc. Common Shares"
+  },
+  {
+    "symbol": "TDS^U",
+    "name": "Telephone and Data Systems Inc. Depositary Shares Each Representing a 1/1000th Interest in a 6.625% Series UU Cumulative Redeemable Perpetual Preferred Stock"
+  },
+  {
+    "symbol": "TDS^V",
+    "name": "Telephone and Data Systems Inc. Depositary Shares Each Representing a 1/1000th Interest in a 6.000% Series VV Cumulative Redeemable Perpetual Preferred Stock"
+  },
+  {
+    "symbol": "TDW",
+    "name": "Tidewater Inc. Common Stock"
+  },
+  {
+    "symbol": "TDY",
+    "name": "Teledyne Technologies Incorporated Common Stock"
+  },
+  {
+    "symbol": "TEI",
+    "name": "Templeton Emerging Markets Income Fund Inc. Common Stock"
+  },
+  {
+    "symbol": "TEN",
+    "name": "Tenneco Inc. Class A Voting Common Stock"
+  },
+  {
+    "symbol": "TEX",
+    "name": "Terex Corporation Common Stock"
+  },
+  {
+    "symbol": "TFC",
+    "name": "Truist Financial Corporation Common Stock"
+  },
+  {
+    "symbol": "TFC^I",
+    "name": "Truist Financial Corporation Depositary Shares"
+  },
+  {
+    "symbol": "TFC^O",
+    "name": "Truist Financial Corporation Depositary Shares Each Representing a 1/1000th Interest in a Share of Series O Non-Cumulative Perpetual Preferred Stock"
+  },
+  {
+    "symbol": "TFC^R",
+    "name": "Truist Financial Corporation Depositary Shares each representing 1/1000th interest in a share of Series R Non-Cumulative Perpetual Preferred Stock"
+  },
+  {
+    "symbol": "TFX",
+    "name": "Teleflex Incorporated Common Stock"
+  },
+  {
+    "symbol": "TG",
+    "name": "Tredegar Corporation Common Stock"
+  },
+  {
+    "symbol": "TGI",
+    "name": "Triumph Group Inc. Common Stock"
+  },
+  {
+    "symbol": "TGNA",
+    "name": "TEGNA Inc"
+  },
+  {
+    "symbol": "TGT",
+    "name": "Target Corporation Common Stock"
+  },
+  {
+    "symbol": "THC",
+    "name": "Tenet Healthcare Corporation Common Stock"
+  },
+  {
+    "symbol": "THG",
+    "name": "Hanover Insurance Group Inc"
+  },
+  {
+    "symbol": "THO",
+    "name": "Thor Industries Inc. Common Stock"
+  },
+  {
+    "symbol": "THQ",
+    "name": "Tekla Healthcare Opportunies Fund Shares of Beneficial Interest"
+  },
+  {
+    "symbol": "THR",
+    "name": "Thermon Group Holdings Inc. Common Stock"
+  },
+  {
+    "symbol": "THS",
+    "name": "Treehouse Foods Inc. Common Stock"
+  },
+  {
+    "symbol": "THW",
+    "name": "Tekla World Healthcare Fund Shares of Beneficial Interest"
+  },
+  {
+    "symbol": "TISI",
+    "name": "Team Inc. Common Stock"
+  },
+  {
+    "symbol": "TJX",
+    "name": "TJX Companies Inc. (The) Common Stock"
+  },
+  {
+    "symbol": "TKR",
+    "name": "Timken Company (The) Common Stock"
+  },
+  {
+    "symbol": "TLYS",
+    "name": "Tilly's Inc. Common Stock"
+  },
+  {
+    "symbol": "TMHC",
+    "name": "Taylor Morrison Home Corporation Common Stock"
+  },
+  {
+    "symbol": "TMO",
+    "name": "Thermo Fisher Scientific Inc Common Stock"
+  },
+  {
+    "symbol": "TMST",
+    "name": "TimkenSteel Corporation Common Shares"
+  },
+  {
+    "symbol": "TNC",
+    "name": "Tennant Company Common Stock"
+  },
+  {
+    "symbol": "TNL",
+    "name": "Travel   Leisure Co. Common  Stock"
+  },
+  {
+    "symbol": "TOL",
+    "name": "Toll Brothers Inc. Common Stock"
+  },
+  {
+    "symbol": "TPB",
+    "name": "Turning Point Brands Inc. Common Stock"
+  },
+  {
+    "symbol": "TPC",
+    "name": "Tutor Perini Corporation Common Stock"
+  },
+  {
+    "symbol": "TPGY",
+    "name": "TPG Pace Beneficial Finance Corp. Class A Ordinary Shares"
+  },
+  {
+    "symbol": "TPH",
+    "name": "Tri Pointe Homes Inc. Common Stock"
+  },
+  {
+    "symbol": "TPL",
+    "name": "Texas Pacific Land Corporation Common Stock"
+  },
+  {
+    "symbol": "TPR",
+    "name": "Tapestry Inc. Common Stock"
+  },
+  {
+    "symbol": "TPX",
+    "name": "Tempur Sealy International Inc. Common Stock"
+  },
+  {
+    "symbol": "TPZ",
+    "name": "Tortoise Power and Energy Infrastructure Fund Inc Common Stock"
+  },
+  {
+    "symbol": "TR",
+    "name": "Tootsie Roll Industries Inc. Common Stock"
+  },
+  {
+    "symbol": "TRC",
+    "name": "Tejon Ranch Co Common Stock"
+  },
+  {
+    "symbol": "TREC",
+    "name": "Trecora Resources Common Stock"
+  },
+  {
+    "symbol": "TREX",
+    "name": "Trex Company Inc. Common Stock"
+  },
+  {
+    "symbol": "TRGP",
+    "name": "Targa Resources Inc. Common Stock"
+  },
+  {
+    "symbol": "TRI",
+    "name": "Thomson Reuters Corp Ordinary Shares"
+  },
+  {
+    "symbol": "TRN",
+    "name": "Trinity Industries Inc. Common Stock"
+  },
+  {
+    "symbol": "TRNO",
+    "name": "Terreno Realty Corporation Common Stock"
+  },
+  {
+    "symbol": "TROX",
+    "name": "Tronox Holdings plc Ordinary Shares (UK)"
+  },
+  {
+    "symbol": "TRTX",
+    "name": "TPG RE Finance Trust Inc. Common Stock"
+  },
+  {
+    "symbol": "TRTX^C",
+    "name": "TPG RE Finance Trust Inc. 6.25% Series C Cumulative Redeemable Preferred Stock $0.001 par value per share"
+  },
+  {
+    "symbol": "TRU",
+    "name": "TransUnion Common Stock"
+  },
+  {
+    "symbol": "TRV",
+    "name": "The Travelers Companies Inc. Common Stock"
+  },
+  {
+    "symbol": "TSI",
+    "name": "TCW Strategic Income Fund Inc. Common Stock"
+  },
+  {
+    "symbol": "TSN",
+    "name": "Tyson Foods Inc. Common Stock"
+  },
+  {
+    "symbol": "TSQ",
+    "name": "Townsquare Media Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "TTC",
+    "name": "Toro Company (The) Common Stock"
+  },
+  {
+    "symbol": "TTI",
+    "name": "Tetra Technologies Inc. Common Stock"
+  },
+  {
+    "symbol": "TTP",
+    "name": "Tortoise Pipeline & Energy Fund Inc. Common Stock"
+  },
+  {
+    "symbol": "TUP",
+    "name": "Tupperware Brands Corporation Common Stock"
+  },
+  {
+    "symbol": "TVC",
+    "name": "Tennessee Valley Authority Common Stock"
+  },
+  {
+    "symbol": "TVE",
+    "name": "Tennessee Valley Authority"
+  },
+  {
+    "symbol": "TWI",
+    "name": "Titan International Inc. (DE) Common Stock"
+  },
+  {
+    "symbol": "TWLO",
+    "name": "Twilio Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "TWN",
+    "name": "Taiwan Fund Inc. (The) Common Stock"
+  },
+  {
+    "symbol": "TWO",
+    "name": "Two Harbors Investment Corp"
+  },
+  {
+    "symbol": "TWO^A",
+    "name": "Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share)"
+  },
+  {
+    "symbol": "TWO^B",
+    "name": "Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock"
+  },
+  {
+    "symbol": "TWO^C",
+    "name": "Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock"
+  },
+  {
+    "symbol": "TXT",
+    "name": "Textron Inc. Common Stock"
+  },
+  {
+    "symbol": "TY",
+    "name": "Tri Continental Corporation Common Stock"
+  },
+  {
+    "symbol": "TY^",
+    "name": "Tri Continental Corporation Preferred Stock"
+  },
+  {
+    "symbol": "TYG",
+    "name": "Tortoise Energy Infrastructure Corporation Common Stock"
+  },
+  {
+    "symbol": "TYL",
+    "name": "Tyler Technologies Inc. Common Stock"
+  },
+  {
+    "symbol": "U",
+    "name": "Unity Software Inc. Common Stock"
+  },
+  {
+    "symbol": "UA",
+    "name": "Under Armour Inc. Class C Common Stock"
+  },
+  {
+    "symbol": "UAA",
+    "name": "Under Armour Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "UAN",
+    "name": "CVR Partners LP Common Units representing Limited Partner Interests"
+  },
+  {
+    "symbol": "UBA",
+    "name": "Urstadt Biddle Properties Inc. Common Stock"
+  },
+  {
+    "symbol": "UBP",
+    "name": "Urstadt Biddle Properties Inc. Common Stock"
+  },
+  {
+    "symbol": "UBP^H",
+    "name": "Urstadt Biddle Properties Inc. 6.250% Series H Cumulative Redeemable Preferred Stock"
+  },
+  {
+    "symbol": "UBP^K",
+    "name": "Urstadt Biddle Properties Inc. 5.875% Series K Cumulative Redeemable Preferred Stock"
+  },
+  {
+    "symbol": "UDR",
+    "name": "UDR Inc. Common Stock"
+  },
+  {
+    "symbol": "UE",
+    "name": "Urban Edge Properties Common Shares of Beneficial Interest"
+  },
+  {
+    "symbol": "UFI",
+    "name": "Unifi Inc. New Common Stock"
+  },
+  {
+    "symbol": "UGI",
+    "name": "UGI Corporation Common Stock"
+  },
+  {
+    "symbol": "UGIC",
+    "name": "UGI Corporation Corporate Units"
+  },
+  {
+    "symbol": "UHS",
+    "name": "Universal Health Services Inc. Common Stock"
+  },
+  {
+    "symbol": "UHT",
+    "name": "Universal Health Realty Income Trust Common Stock"
+  },
+  {
+    "symbol": "UI",
+    "name": "Ubiquiti Inc. Common Stock"
+  },
+  {
+    "symbol": "UIS",
+    "name": "Unisys Corporation New Common Stock"
+  },
+  {
+    "symbol": "UMH",
+    "name": "UMH Properties Inc. Common Stock"
+  },
+  {
+    "symbol": "UMH^C",
+    "name": "UMH Properties Inc. 6.75% Series C Cumulative Redeemable Preferred Stock  Liquidation Preference $25 per share"
+  },
+  {
+    "symbol": "UMH^D",
+    "name": "UMH Properties Inc. 6.375% Series D Cumulative Redeemable Preferred Stock Liquidation Preference $25 per share"
+  },
+  {
+    "symbol": "UNF",
+    "name": "Unifirst Corporation Common Stock"
+  },
+  {
+    "symbol": "UNFI",
+    "name": "United Natural Foods Inc. Common Stock"
+  },
+  {
+    "symbol": "UNH",
+    "name": "UnitedHealth Group Incorporated Common Stock (DE)"
+  },
+  {
+    "symbol": "UNM",
+    "name": "Unum Group Common Stock"
+  },
+  {
+    "symbol": "UNMA",
+    "name": "Unum Group 6.250% Junior Subordinated Notes due 2058"
+  },
+  {
+    "symbol": "UNP",
+    "name": "Union Pacific Corporation Common Stock"
+  },
+  {
+    "symbol": "UNVR",
+    "name": "Univar Solutions Inc. Common Stock"
+  },
+  {
+    "symbol": "UPS",
+    "name": "United Parcel Service Inc. Common Stock"
+  },
+  {
+    "symbol": "URI",
+    "name": "United Rentals Inc. Common Stock"
+  },
+  {
+    "symbol": "USA",
+    "name": "Liberty All-Star Equity Fund Common Stock"
+  },
+  {
+    "symbol": "USAC",
+    "name": "USA Compression Partners LP Common Units Representing Limited Partner Interests"
+  },
+  {
+    "symbol": "USB",
+    "name": "U.S. Bancorp Common Stock"
+  },
+  {
+    "symbol": "USB^A",
+    "name": "U.S. Bancorp Depositary Shares Each representing a 1/100th interest in a share of Series A Non-CumulativePerpetual Pfd Stock"
+  },
+  {
+    "symbol": "USB^H",
+    "name": "U.S. Bancorp Depositary Shares repstg 1/1000th Pfd Ser B"
+  },
+  {
+    "symbol": "USB^P",
+    "name": "U.S. Bancorp Depositary Shares each representing a 1/1000th interest in a share of Series K Non-Cumulative Perpetual Preferred Stock"
+  },
+  {
+    "symbol": "USB^Q",
+    "name": "U.S. Bancorp Depositary Shares Each Representing a 1/1000th Interest in a Share of Series L Non-Cumulative Perpetual Preferred Stock"
+  },
+  {
+    "symbol": "USB^R",
+    "name": "U.S. Bancorp Depositary Shares Each Representing a 1/1000th Interest in a Share of Series M Non-Cumulative Perpetual Preferred Stock"
+  },
+  {
+    "symbol": "USB^S",
+    "name": "U.S. Bancorp Depositary Shares each representing a 1/1000th interest in a share of Series O Non-Cumulative Perpetual Preferred Stock"
+  },
+  {
+    "symbol": "USDP",
+    "name": "USD Partners LP Common Units representing limited partner interest"
+  },
+  {
+    "symbol": "USFD",
+    "name": "US Foods Holding Corp. Common Stock"
+  },
+  {
+    "symbol": "USM",
+    "name": "United States Cellular Corporation Common Stock"
+  },
+  {
+    "symbol": "USNA",
+    "name": "USANA Health Sciences Inc. Common Stock"
+  },
+  {
+    "symbol": "USPH",
+    "name": "U.S. Physical Therapy Inc. Common Stock"
+  },
+  {
+    "symbol": "USX",
+    "name": "U.S. Xpress Enterprises Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "UTF",
+    "name": "Cohen & Steers Infrastructure Fund Inc Common Stock"
+  },
+  {
+    "symbol": "UTI",
+    "name": "Universal Technical Institute Inc Common Stock"
+  },
+  {
+    "symbol": "UTL",
+    "name": "UNITIL Corporation Common Stock"
+  },
+  {
+    "symbol": "UTZ",
+    "name": "Utz Brands Inc Class A Common Stock"
+  },
+  {
+    "symbol": "UVE",
+    "name": "UNIVERSAL INSURANCE HOLDINGS INC Common Stock"
+  },
+  {
+    "symbol": "UVV",
+    "name": "Universal Corporation Common Stock"
+  },
+  {
+    "symbol": "UWMC",
+    "name": "UWM Holdings Corporation Class A Common Stock"
+  },
+  {
+    "symbol": "UZD",
+    "name": "United States Cellular Corporation 6.250% Senior Notes due 2069"
+  },
+  {
+    "symbol": "UZE",
+    "name": "United States Cellular Corporation 5.500% Senior Notes due 2070"
+  },
+  {
+    "symbol": "UZF",
+    "name": "United States Cellular Corporation 5.500% Senior Notes due 2070"
+  },
+  {
+    "symbol": "V",
+    "name": "Visa Inc."
+  },
+  {
+    "symbol": "VAC",
+    "name": "Marriott Vacations Worldwide Corporation Common Stock"
+  },
+  {
+    "symbol": "VAPO",
+    "name": "Vapotherm Inc. Common Stock"
+  },
+  {
+    "symbol": "VATE",
+    "name": "INNOVATE Corp. Common Stock"
+  },
+  {
+    "symbol": "VBF",
+    "name": "Invesco Bond Fund Common Stock"
+  },
+  {
+    "symbol": "VCV",
+    "name": "Invesco California Value Municipal Income Trust Common Stock"
+  },
+  {
+    "symbol": "VEC",
+    "name": "Vectrus Inc. Common Stock"
+  },
+  {
+    "symbol": "VFC",
+    "name": "V.F. Corporation Common Stock"
+  },
+  {
+    "symbol": "VGI",
+    "name": "Virtus Global Multi-Sector Income Fund Common Shares of Beneficial Interest"
+  },
+  {
+    "symbol": "VGM",
+    "name": "Invesco Trust for Investment Grade Municipals Common Stock (DE)"
+  },
+  {
+    "symbol": "VGR",
+    "name": "Vector Group Ltd. Common Stock"
+  },
+  {
+    "symbol": "VHC",
+    "name": "VirnetX Holding Corp Common Stock"
+  },
+  {
+    "symbol": "VHI",
+    "name": "Valhi Inc. Common Stock"
+  },
+  {
+    "symbol": "VKQ",
+    "name": "Invesco Municipal Trust Common Stock"
+  },
+  {
+    "symbol": "VLO",
+    "name": "Valero Energy Corporation Common Stock"
+  },
+  {
+    "symbol": "VLT",
+    "name": "Invesco High Income Trust II"
+  },
+  {
+    "symbol": "VLTA",
+    "name": "Volta Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "VMC",
+    "name": "Vulcan Materials Company (Holding Company) Common Stock"
+  },
+  {
+    "symbol": "VMI",
+    "name": "Valmont Industries Inc. Common Stock"
+  },
+  {
+    "symbol": "VMO",
+    "name": "Invesco Municipal Opportunity Trust Common Stock"
+  },
+  {
+    "symbol": "VMW",
+    "name": "Vmware Inc. Common stock Class A"
+  },
+  {
+    "symbol": "VNO",
+    "name": "Vornado Realty Trust Common Stock"
+  },
+  {
+    "symbol": "VNO^L",
+    "name": "Vornado Realty Trust Pfd Ser L %"
+  },
+  {
+    "symbol": "VNO^M",
+    "name": "Vornado Realty Trust 5.25% Series M Cumulative Redeemable Preferred Shares of Beneficial Interest liquidation preference $25.00 per share no par value per share"
+  },
+  {
+    "symbol": "VNO^N",
+    "name": "Vornado Realty Trust 5.25% Series N Cumulative Redeemable Preferred Shares of Beneficial Interest liquidation preference $25.00 per share"
+  },
+  {
+    "symbol": "VNO^O",
+    "name": "Vornado Realty Trust 4.45% Series O Cumulative Redeemable Preferred Shares Liquidation Preference $25.00 Per Share"
+  },
+  {
+    "symbol": "VOC",
+    "name": "VOC Energy Trust Units of Beneficial Interest"
+  },
+  {
+    "symbol": "VOYA",
+    "name": "Voya Financial Inc. Common Stock"
+  },
+  {
+    "symbol": "VOYA^B",
+    "name": "Voya Financial Inc. Depositary Shares each representing a 1/40th interest in a share of 5.35% Fixed-Rate Reset Non-Cumulative Preferred Stock Series B"
+  },
+  {
+    "symbol": "VPG",
+    "name": "Vishay Precision Group Inc. Common Stock"
+  },
+  {
+    "symbol": "VPV",
+    "name": "Invesco Pennsylvania Value Municipal Income Trust Common Stock (DE)"
+  },
+  {
+    "symbol": "VRE",
+    "name": "Veris Residential Inc. Common Stock"
+  },
+  {
+    "symbol": "VRT",
+    "name": "Vertiv Holdings LLC Class A Common Stock"
+  },
+  {
+    "symbol": "VSH",
+    "name": "Vishay Intertechnology Inc. Common Stock"
+  },
+  {
+    "symbol": "VSTO",
+    "name": "Vista Outdoor Inc. Common Stock"
+  },
+  {
+    "symbol": "VTN",
+    "name": "Invesco Trust for Investment Grade New York Municipals Common Stock"
+  },
+  {
+    "symbol": "VTOL",
+    "name": "Bristow Group Inc. Common Stock"
+  },
+  {
+    "symbol": "VTR",
+    "name": "Ventas Inc. Common Stock"
+  },
+  {
+    "symbol": "VVI",
+    "name": "Viad Corp Common Stock"
+  },
+  {
+    "symbol": "VVR",
+    "name": "Invesco Senior Income Trust Common Stock (DE)"
+  },
+  {
+    "symbol": "VVV",
+    "name": "Valvoline Inc. Common Stock"
+  },
+  {
+    "symbol": "W",
+    "name": "Wayfair Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "WAB",
+    "name": "Westinghouse Air Brake Technologies Corporation Common Stock"
+  },
+  {
+    "symbol": "WAL",
+    "name": "Western Alliance Bancorporation Common Stock (DE)"
+  },
+  {
+    "symbol": "WAL^A",
+    "name": "Western Alliance Bancorporation Depositary Shares Each Representing a 1/400th Interest in a Share of 4.250% Fixed-Rate Non-Cumulative Perpetual Preferred Stock Series A"
+  },
+  {
+    "symbol": "WAT",
+    "name": "Waters Corporation Common Stock"
+  },
+  {
+    "symbol": "WBS",
+    "name": "Webster Financial Corporation Common Stock"
+  },
+  {
+    "symbol": "WBS^F",
+    "name": "Webster Financial Corporation Depositary Shares Each Representing 1/1000th Interest in a Share of 5.25% Series F Non-Cumulative Perpetual Preferred Stock"
+  },
+  {
+    "symbol": "WBS^G",
+    "name": "Webster Financial Corporation Depositary Shares each representing a 1/40th interest in a share of 6.50% Series G non-cumulative perpetual preferred stock"
+  },
+  {
+    "symbol": "WCC",
+    "name": "WESCO International Inc. Common Stock"
+  },
+  {
+    "symbol": "WCC^A",
+    "name": "WESCO International Inc. Depositary Shares each representing 1/1000th interest in a share of Series A Fixed-Rate Reset Cumulative Perpetual Preferred Stock"
+  },
+  {
+    "symbol": "WD",
+    "name": "Walker & Dunlop Inc Common Stock"
+  },
+  {
+    "symbol": "WEA",
+    "name": "Western Asset Bond Fund Share of Beneficial Interest"
+  },
+  {
+    "symbol": "WEC",
+    "name": "WEC Energy Group Inc. Common Stock"
+  },
+  {
+    "symbol": "WELL",
+    "name": "Welltower Inc. Common Stock"
+  },
+  {
+    "symbol": "WES",
+    "name": "Western Midstream Partners LP Common Units Representing Limited Partner Interests"
+  },
+  {
+    "symbol": "WEX",
+    "name": "WEX Inc. common stock"
+  },
+  {
+    "symbol": "WFC",
+    "name": "Wells Fargo & Company Common Stock"
+  },
+  {
+    "symbol": "WFC^A",
+    "name": "Wells Fargo & Company Depositary Shares each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock Series AA"
+  },
+  {
+    "symbol": "WFC^C",
+    "name": "Wells Fargo & Company Depositary Shares each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock Series CC"
+  },
+  {
+    "symbol": "WFC^D",
+    "name": "Wells Fargo & Company Depositary Shares each representing a 1/1000th interest in  a share of Non-Cumulative Perpetual Class A Preferred Stock Series DD"
+  },
+  {
+    "symbol": "WFC^L",
+    "name": "Wells Fargo & Company Wells Fargo & Company 7.50% Non-Cumulative Perpetual Convertible Class A Preferred Stock Series L"
+  },
+  {
+    "symbol": "WFC^Q",
+    "name": "Wells Fargo & Company Depositary Shares Representing 1/1000th Interest Perpetual Preferred Class A Series Q Fixed to Floating"
+  },
+  {
+    "symbol": "WFC^R",
+    "name": "Wells Fargo & Company Dep Shs Repstg 1/1000th Int Perp Pfd Cl A (Ser R Fixed To Flltg)"
+  },
+  {
+    "symbol": "WFC^Y",
+    "name": "Wells Fargo & Company Depositary Shares each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock Series Y"
+  },
+  {
+    "symbol": "WFC^Z",
+    "name": "Wells Fargo & Company Depositary Shares each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock Series Z"
+  },
+  {
+    "symbol": "WGO",
+    "name": "Winnebago Industries Inc. Common Stock"
+  },
+  {
+    "symbol": "WHG",
+    "name": "Westwood Holdings Group Inc Common Stock"
+  },
+  {
+    "symbol": "WHR",
+    "name": "Whirlpool Corporation Common Stock"
+  },
+  {
+    "symbol": "WIA",
+    "name": "Western Asset Inflation-Linked Income Fund"
+  },
+  {
+    "symbol": "WIW",
+    "name": "Western Asset Inflation-Linked Opportunities & Income Fund"
+  },
+  {
+    "symbol": "WK",
+    "name": "Workiva Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "WLK",
+    "name": "Westlake Corporation Common Stock"
+  },
+  {
+    "symbol": "WLKP",
+    "name": "Westlake Chemical Partners LP Common Units representing limited partner interests"
+  },
+  {
+    "symbol": "WLL",
+    "name": "Whiting Petroleum Corporation Common Stock (New)"
+  },
+  {
+    "symbol": "WLY",
+    "name": "John Wiley & Sons Inc. Common Stock"
+  },
+  {
+    "symbol": "WLYB",
+    "name": "John Wiley & Sons Inc. Common Stock"
+  },
+  {
+    "symbol": "WM",
+    "name": "Waste Management Inc. Common Stock"
+  },
+  {
+    "symbol": "WMB",
+    "name": "Williams Companies Inc. (The) Common Stock"
+  },
+  {
+    "symbol": "WMC",
+    "name": "Western Asset Mortgage Capital Corporation Common Stock"
+  },
+  {
+    "symbol": "WMK",
+    "name": "Weis Markets Inc. Common Stock"
+  },
+  {
+    "symbol": "WMS",
+    "name": "Advanced Drainage Systems Inc. Common Stock"
+  },
+  {
+    "symbol": "WMT",
+    "name": "Walmart Inc. Common Stock"
+  },
+  {
+    "symbol": "WNC",
+    "name": "Wabash National Corporation Common Stock"
+  },
+  {
+    "symbol": "WOLF",
+    "name": "Wolfspeed Inc. Common Stock"
+  },
+  {
+    "symbol": "WOR",
+    "name": "Worthington Industries Inc. Common Stock"
+  },
+  {
+    "symbol": "WOW",
+    "name": "WideOpenWest Inc. Common Stock"
+  },
+  {
+    "symbol": "WPC",
+    "name": "W. P. Carey Inc. REIT"
+  },
+  {
+    "symbol": "WRB",
+    "name": "W.R. Berkley Corporation Common Stock"
+  },
+  {
+    "symbol": "WRB^E",
+    "name": "W.R. Berkley Corporation 5.70% Subordinated Debentures due 2058"
+  },
+  {
+    "symbol": "WRB^F",
+    "name": "W.R. Berkley Corporation 5.10% Subordinated Debentures due 2059"
+  },
+  {
+    "symbol": "WRB^G",
+    "name": "W.R. Berkley Corporation 4.25% Subordinated Debentures due 2060"
+  },
+  {
+    "symbol": "WRB^H",
+    "name": "W.R. Berkley Corporation 4.125% Subordinated Debentures due 2061"
+  },
+  {
+    "symbol": "WRE",
+    "name": "Washington Real Estate Investment Trust Common Stock"
+  },
+  {
+    "symbol": "WSM",
+    "name": "Williams-Sonoma Inc. Common Stock (DE)"
+  },
+  {
+    "symbol": "WSO",
+    "name": "Watsco Inc. Common Stock"
+  },
+  {
+    "symbol": "WSO/B",
+    "name": "Watsco Inc."
+  },
+  {
+    "symbol": "WSR",
+    "name": "Whitestone REIT Common Shares"
+  },
+  {
+    "symbol": "WST",
+    "name": "West Pharmaceutical Services Inc. Common Stock"
+  },
+  {
+    "symbol": "WTI",
+    "name": "W&T Offshore Inc. Common Stock"
+  },
+  {
+    "symbol": "WTM",
+    "name": "White Mountains Insurance Group Ltd. Common Stock"
+  },
+  {
+    "symbol": "WTRG",
+    "name": "Essential Utilities Inc. Common Stock"
+  },
+  {
+    "symbol": "WTS",
+    "name": "Watts Water Technologies Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "WTTR",
+    "name": "Select Energy Services Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "WU",
+    "name": "Western Union Company (The) Common Stock"
+  },
+  {
+    "symbol": "WWE",
+    "name": "World Wrestling Entertainment Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "WWW",
+    "name": "Wolverine World Wide Inc. Common Stock"
+  },
+  {
+    "symbol": "WY",
+    "name": "Weyerhaeuser Company Common Stock"
+  },
+  {
+    "symbol": "X",
+    "name": "United States Steel Corporation Common Stock"
+  },
+  {
+    "symbol": "XFLT",
+    "name": "XAI Octagon Floating Rate & Alternative Income Term Trust Common Shares of Beneficial Interest"
+  },
+  {
+    "symbol": "XFLT^A",
+    "name": "XAI Octagon Floating Rate & Alternative Income Term Trust 6.50% Series 2026 Term Preferred Shares (Liquidation Preference $25.00)"
+  },
+  {
+    "symbol": "XHR",
+    "name": "Xenia Hotels & Resorts Inc. Common Stock"
+  },
+  {
+    "symbol": "XOM",
+    "name": "Exxon Mobil Corporation Common Stock"
+  },
+  {
+    "symbol": "XPO",
+    "name": "XPO Logistics Inc."
+  },
+  {
+    "symbol": "XPOA",
+    "name": "DPCM Capital Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "XYL",
+    "name": "Xylem Inc. Common Stock New"
+  },
+  {
+    "symbol": "Y",
+    "name": "Alleghany Corporation Common Stock"
+  },
+  {
+    "symbol": "YELP",
+    "name": "Yelp Inc. Common Stock"
+  },
+  {
+    "symbol": "YETI",
+    "name": "YETI Holdings Inc. Common Stock"
+  },
+  {
+    "symbol": "YEXT",
+    "name": "Yext Inc. Common Stock"
+  },
+  {
+    "symbol": "YUM",
+    "name": "Yum! Brands Inc."
+  },
+  {
+    "symbol": "YUMC",
+    "name": "Yum China Holdings Inc. Common Stock"
+  },
+  {
+    "symbol": "ZBH",
+    "name": "Zimmer Biomet Holdings Inc. Common Stock"
+  },
+  {
+    "symbol": "ZTR",
+    "name": "Virtus Total Return Fund Inc."
+  },
+  {
+    "symbol": "ZTS",
+    "name": "Zoetis Inc. Class A Common Stock"
+  },
+  {
+    "symbol": "ZWS",
+    "name": "Zurn Water Solutions Corporation Common Stock"
+  }
+]
